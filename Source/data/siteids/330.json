@@ -11,9 +11,9 @@
             "type": {
                 "type": "Gamma"
             },
-            "latitude": 46.0167,
-            "longitude": 2.8343,
-            "verified": true,
+            "latitude": 6.3E-05,
+            "longitude": 145.316055,
+            "verified": false,
             "discoveredBy": {
                 "cmdrName": "Grimelinho"
             },

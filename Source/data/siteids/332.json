@@ -11,9 +11,9 @@
             "type": {
                 "type": "Beta"
             },
-            "latitude": -10.2798,
-            "longitude": -127.4644,
-            "verified": true,
+            "latitude": -11.196926,
+            "longitude": -121.295853,
+            "verified": false,
             "discoveredBy": {
                 "cmdrName": "felsen83"
             },

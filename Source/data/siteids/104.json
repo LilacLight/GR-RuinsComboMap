@@ -11,8 +11,8 @@
             "type": {
                 "type": "Alpha"
             },
-            "latitude": -49.9885,
-            "longitude": -129.9722,
+            "latitude": -49.99,
+            "longitude": -129.99,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "HunabKU"

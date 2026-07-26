@@ -11,8 +11,8 @@
             "type": {
                 "type": "Alpha"
             },
-            "latitude": 20.5043,
-            "longitude": -125.8587,
+            "latitude": 20.5,
+            "longitude": -125.86,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "Farran"

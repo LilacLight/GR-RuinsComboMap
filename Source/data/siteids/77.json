@@ -11,8 +11,8 @@
             "type": {
                 "type": "Beta"
             },
-            "latitude": -17.5000,
-            "longitude": 43.1786,
+            "latitude": -17.5,
+            "longitude": 43.17,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "zzz_Unknown"

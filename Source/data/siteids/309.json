@@ -11,9 +11,9 @@
             "type": {
                 "type": "Gamma"
             },
-            "latitude": 3.8313,
-            "longitude": -148.2448,
-            "verified": true,
+            "latitude": -4.498614,
+            "longitude": 49.258827,
+            "verified": false,
             "discoveredBy": {
                 "cmdrName": "Insane Golgotha"
             },
