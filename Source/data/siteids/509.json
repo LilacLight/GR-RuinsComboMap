@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 509,
+            "system": {
+                "systemName": "GRAEA HYPUE LO-P D6-194"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE LO-P D6-194 14 A"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 22.2094,
+            "longitude": -112.0908,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

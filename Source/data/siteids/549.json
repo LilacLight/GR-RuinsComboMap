@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 549,
+            "system": {
+                "systemName": "COL 173 SECTOR NI-J D9-48"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR NI-J D9-48 A 5 C"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -4.3417,
+            "longitude": 54.1744,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 574,
+            "system": {
+                "systemName": "GRAEA HYPUE CC-H B28-27"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE CC-H B28-27 A 6"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 47.6362,
+            "longitude": -30.7198,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

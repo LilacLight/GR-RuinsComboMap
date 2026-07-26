@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 395,
+            "system": {
+                "systemName": "COL 173 SECTOR OO-Q D5-18"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR OO-Q D5-18 6 B"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -33.0140,
+            "longitude": 13.2949,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 423,
+            "system": {
+                "systemName": "GRAEA HYPUE GH-M B11-1"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE GH-M B11-1 B 1"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": 27.2118,
+            "longitude": -101.2964,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

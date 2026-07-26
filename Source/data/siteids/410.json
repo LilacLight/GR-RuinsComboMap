@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 410,
+            "system": {
+                "systemName": "COL 173 SECTOR PF-C C14-22"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR PF-C C14-22 B 2"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": 30.4015,
+            "longitude": 37.4016,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

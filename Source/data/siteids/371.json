@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 371,
+            "system": {
+                "systemName": "GRAEA HYPUE AA-Z E24"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE AA-Z E24 12 C"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -9.9120,
+            "longitude": 21.8100,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

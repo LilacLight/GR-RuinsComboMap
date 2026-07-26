@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 415,
+            "system": {
+                "systemName": "GRAEA HYPUE NY-Q D5-111"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE NY-Q D5-111 5 A"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -31.8379,
+            "longitude": 128.5669,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

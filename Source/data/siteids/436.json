@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 436,
+            "system": {
+                "systemName": "GRAEA HYPUE PT-Q D5-122"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE PT-Q D5-122 10 A"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": 17.4769,
+            "longitude": 52.1444,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

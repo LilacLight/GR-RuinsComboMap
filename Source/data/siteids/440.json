@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 440,
+            "system": {
+                "systemName": "BLAA HYPAI BN-I B26-1"
+            },
+            "body": {
+                "bodyName": "BLAA HYPAI BN-I B26-1 B 4"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -49.3244,
+            "longitude": 102.1707,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 479,
+            "system": {
+                "systemName": "NYEAJEOU VP-G B56-0"
+            },
+            "body": {
+                "bodyName": "NYEAJEOU VP-G B56-0 B 2"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -45.1313,
+            "longitude": 86.6656,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}
