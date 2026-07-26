@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 390,
+            "system": {
+                "systemName": "COL 173 SECTOR MK-D C13-3"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR MK-D C13-3 B 2"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": 7.1874,
+            "longitude": 112.4522,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 566,
+            "system": {
+                "systemName": "GRAEA HYPUE AG-V D3-438"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE AG-V D3-438 10 A"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": 52.2068,
+            "longitude": 177.4493,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

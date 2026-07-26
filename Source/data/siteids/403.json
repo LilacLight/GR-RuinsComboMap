@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 403,
+            "system": {
+                "systemName": "COL 173 SECTOR JE-V B33-4"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR JE-V B33-4 B 2"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": 13.0177,
+            "longitude": -148.3974,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

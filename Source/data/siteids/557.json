@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 557,
+            "system": {
+                "systemName": "COL 173 SECTOR TK-C B30-6"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR TK-C B30-6 B 2"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": -43.2444,
+            "longitude": -4.0969,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

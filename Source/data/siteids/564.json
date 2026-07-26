@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 564,
+            "system": {
+                "systemName": "BLAE HYPUE ZD-G C12-4"
+            },
+            "body": {
+                "bodyName": "BLAE HYPUE ZD-G C12-4 D 2"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 1.1024,
+            "longitude": 23.2500,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

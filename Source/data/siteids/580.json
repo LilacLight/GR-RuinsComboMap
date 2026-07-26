@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 580,
+            "system": {
+                "systemName": "GRAEA HYPUE FH-I B27-5"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE FH-I B27-5 A 1"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -0.8881,
+            "longitude": -176.9575,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

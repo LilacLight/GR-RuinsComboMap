@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 569,
+            "system": {
+                "systemName": "PRAI HYPOO SX-B D40"
+            },
+            "body": {
+                "bodyName": "PRAI HYPOO SX-B D40 6 A"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 16.4694,
+            "longitude": 48.0716,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

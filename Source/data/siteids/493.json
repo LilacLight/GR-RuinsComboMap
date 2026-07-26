@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 493,
+            "system": {
+                "systemName": "COL 173 SECTOR UM-X B16-0"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR UM-X B16-0 E 1"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 4.1360,
+            "longitude": 174.9977,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

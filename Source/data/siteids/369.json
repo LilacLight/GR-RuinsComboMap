@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 369,
+            "system": {
+                "systemName": "GRAEA HYPUE YE-Y D1-212"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE YE-Y D1-212 3 A"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -20.6452,
+            "longitude": -99.8284,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

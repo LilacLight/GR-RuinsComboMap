@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 467,
+            "system": {
+                "systemName": "SWOILZ PA-F B3-2"
+            },
+            "body": {
+                "bodyName": "SWOILZ PA-F B3-2 B 2"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": -29.8798,
+            "longitude": 145.9568,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

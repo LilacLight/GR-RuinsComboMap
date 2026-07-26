@@ -11,9 +11,9 @@
             "type": {
                 "type": "Alpha"
             },
-            "latitude": 29.218719,
-            "longitude": 111.308266,
-            "verified": false,
+            "latitude": 15.8083,
+            "longitude": 43.6913,
+            "verified": true,
             "discoveredBy": {
                 "cmdrName": "Dreamstate"
             },

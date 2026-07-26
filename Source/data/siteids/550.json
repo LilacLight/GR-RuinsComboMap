@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 550,
+            "system": {
+                "systemName": "COL 173 SECTOR VC-W C17-15"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR VC-W C17-15 B 4"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": 21.9592,
+            "longitude": -46.5711,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

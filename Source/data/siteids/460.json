@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 460,
+            "system": {
+                "systemName": "GRAEA HYPUE BH-T D4-242"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE BH-T D4-242 B 5"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -37.4409,
+            "longitude": -99.5839,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

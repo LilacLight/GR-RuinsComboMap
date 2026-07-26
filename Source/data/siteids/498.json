@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 498,
+            "system": {
+                "systemName": "GRAEA HYPUE OJ-W C3-34"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE OJ-W C3-34 C 2"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 0.6332,
+            "longitude": 38.6423,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}
