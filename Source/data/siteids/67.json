@@ -11,8 +11,8 @@
             "type": {
                 "type": "Beta"
             },
-            "latitude": -35.2867,
-            "longitude": -130.5458,
+            "latitude": 2,
+            "longitude": -10.67,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "rbarba"

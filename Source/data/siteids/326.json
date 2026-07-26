@@ -11,9 +11,9 @@
             "type": {
                 "type": "Beta"
             },
-            "latitude": 20.9908,
-            "longitude": 136.0195,
-            "verified": true,
+            "latitude": 52.201725,
+            "longitude": 112.859184,
+            "verified": false,
             "discoveredBy": {
                 "cmdrName": "_Definzy_"
             },

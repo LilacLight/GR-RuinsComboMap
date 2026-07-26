@@ -11,8 +11,8 @@
             "type": {
                 "type": "Beta"
             },
-            "latitude": 26.7153,
-            "longitude": 142.7984,
+            "latitude": 26.7,
+            "longitude": 142.78,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "Dave Weyland"

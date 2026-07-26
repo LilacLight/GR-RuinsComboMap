@@ -11,8 +11,8 @@
             "type": {
                 "type": "Beta"
             },
-            "latitude": 47.6425,
-            "longitude": 20.6678,
+            "latitude": 47.65,
+            "longitude": 20.67,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "Farran"

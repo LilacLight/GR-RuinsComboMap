@@ -11,9 +11,9 @@
             "type": {
                 "type": "Gamma"
             },
-            "latitude": 33.8582,
-            "longitude": 34.9243,
-            "verified": true,
+            "latitude": 41.16407,
+            "longitude": 59.786354,
+            "verified": false,
             "discoveredBy": {
                 "cmdrName": "Toxophilite"
             },

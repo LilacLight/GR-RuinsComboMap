@@ -11,9 +11,9 @@
             "type": {
                 "type": "Gamma"
             },
-            "latitude": 0.4695,
-            "longitude": 55.5856,
-            "verified": true,
+            "latitude": -12.793836,
+            "longitude": 119.401871,
+            "verified": false,
             "discoveredBy": {
                 "cmdrName": "Namix"
             },
