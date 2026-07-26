@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 450,
+            "system": {
+                "systemName": "VELA DARK REGION WJ-Q B5-8"
+            },
+            "body": {
+                "bodyName": "VELA DARK REGION WJ-Q B5-8 B 1"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": 21.3542,
+            "longitude": -69.2356,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 578,
+            "system": {
+                "systemName": "GRAEA HYPUE UW-G C12-44"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE UW-G C12-44 B 2"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 30.4432,
+            "longitude": 46.1478,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

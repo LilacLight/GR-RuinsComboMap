@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 527,
+            "system": {
+                "systemName": "NGC 2516 SECTOR EL-Y D40"
+            },
+            "body": {
+                "bodyName": "NGC 2516 SECTOR EL-Y D40 B 6"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": 74.1175,
+            "longitude": -126.4616,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

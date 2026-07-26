@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 362,
+            "system": {
+                "systemName": "COL 173 SECTOR PD-B B29-4"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR PD-B B29-4 A 6"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": 33.1299,
+            "longitude": 48.1288,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

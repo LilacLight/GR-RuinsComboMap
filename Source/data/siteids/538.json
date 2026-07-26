@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 538,
+            "system": {
+                "systemName": "COL 173 SECTOR GE-D B14-0"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR GE-D B14-0 B 3"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -37.5576,
+            "longitude": 23.9676,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

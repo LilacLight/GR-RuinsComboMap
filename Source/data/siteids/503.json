@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 503,
+            "system": {
+                "systemName": "GRAEA HYPUE VZ-X D1-92"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE VZ-X D1-92 5 B"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": -41.7081,
+            "longitude": -152.5113,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

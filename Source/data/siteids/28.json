@@ -11,8 +11,8 @@
             "type": {
                 "type": "Beta"
             },
-            "latitude": -17,
-            "longitude": 44.24,
+            "latitude": -17.0087,
+            "longitude": 44.2440,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "Vaia Sunn"

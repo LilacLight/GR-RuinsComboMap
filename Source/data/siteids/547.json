@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 547,
+            "system": {
+                "systemName": "COL 173 SECTOR AC-W B31-3"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR AC-W B31-3 A 3"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": -8.7791,
+            "longitude": -148.3605,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

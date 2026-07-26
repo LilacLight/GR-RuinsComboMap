@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 375,
+            "system": {
+                "systemName": "GRAEA HYPUE PT-Q D5-97"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE PT-Q D5-97 7 C"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -33.7655,
+            "longitude": -161.5703,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

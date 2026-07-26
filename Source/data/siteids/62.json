@@ -11,8 +11,8 @@
             "type": {
                 "type": "Gamma"
             },
-            "latitude": 2.4,
-            "longitude": 132.05,
+            "latitude": 2.4112,
+            "longitude": 132.0486,
             "verified": true,
             "discoveredBy": {
                 "cmdrName": "zzz_Unknown"

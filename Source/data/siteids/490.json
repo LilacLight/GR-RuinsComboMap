@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 490,
+            "system": {
+                "systemName": "GRAEA HYPUE QY-Z D179"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE QY-Z D179 B 4"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": 4.0679,
+            "longitude": 108.5511,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

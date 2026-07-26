@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 511,
+            "system": {
+                "systemName": "BLAA HYPAI PB-A B31-0"
+            },
+            "body": {
+                "bodyName": "BLAA HYPAI PB-A B31-0 B 5"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -15.6935,
+            "longitude": 152.6923,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 411,
+            "system": {
+                "systemName": "COL 173 SECTOR SA-C C14-1"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR SA-C C14-1 A 5"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -8.0448,
+            "longitude": 107.5815,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}
