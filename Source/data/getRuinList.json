@@ -15559,7 +15559,7 @@
                 "longitude": -67.7127,
                 "frontierID": 1,
                 "system": {
-                    "id": "15883,
+                    "id": "15883",
                     "systemName": "GRAEA HYPUE LS-S D4-81",
                     "edsmID": 49888233
                 },
@@ -15577,7 +15577,7 @@
                 "longitude": -140.3904,
                 "frontierID": 3,
                 "system": {
-                    "id": "916,
+                    "id": "916",
                     "systemName": "COL 173 SECTOR YF-N C7-5",
                     "edsmID": 24935694
                 },
@@ -15595,7 +15595,7 @@
                 "longitude": 127.4302,
                 "frontierID": 1,
                 "system": {
-                    "id": "85731250834,
+                    "id": "85731250834",
                     "systemName": "COL 173 SECTOR DM-L C8-0",
                     "edsmID": 49122569
                 },
@@ -15613,7 +15613,7 @@
                 "longitude": 23.3995,
                 "frontierID": 3,
                 "system": {
-                    "id": "85731250834,
+                    "id": "85731250834",
                     "systemName": "COL 173 SECTOR DM-L C8-0",
                     "edsmID": 49122569
                 },
@@ -15631,7 +15631,7 @@
                 "longitude": -3.7987,
                 "frontierID": 2,
                 "system": {
-                    "id": "85731250834,
+                    "id": "85731250834",
                     "systemName": "COL 173 SECTOR DM-L C8-0",
                     "edsmID": 49122569
                 },
@@ -15649,7 +15649,7 @@
                 "longitude": -128.2579,
                 "frontierID": 1,
                 "system": {
-                    "id": "85731250834,
+                    "id": "85731250834",
                     "systemName": "COL 173 SECTOR DM-L C8-0",
                     "edsmID": 49122569
                 },
@@ -15667,7 +15667,7 @@
                 "longitude": -131.6195,
                 "frontierID": 2,
                 "system": {
-                    "id": "113774610747,
+                    "id": "113774610747",
                     "systemName": "COL 173 SECTOR GM-V D2-3",
                     "edsmID": 35497248
                 },
@@ -15685,7 +15685,7 @@
                 "longitude": 121.2838,
                 "frontierID": 1,
                 "system": {
-                    "id": "113774610747,
+                    "id": "113774610747",
                     "systemName": "COL 173 SECTOR GM-V D2-3",
                     "edsmID": 35497248
                 },
@@ -15703,7 +15703,7 @@
                 "longitude": 134.9841,
                 "frontierID": 3,
                 "system": {
-                    "id": "113774610747,
+                    "id": "113774610747",
                     "systemName": "COL 173 SECTOR GM-V D2-3",
                     "edsmID": 35497248
                 },
@@ -15721,7 +15721,7 @@
                 "longitude": 50.4803,
                 "frontierID": 2,
                 "system": {
-                    "id": "113774610747,
+                    "id": "113774610747",
                     "systemName": "COL 173 SECTOR GM-V D2-3",
                     "edsmID": 35497248
                 },
@@ -15739,7 +15739,7 @@
                 "longitude": 24.0003,
                 "frontierID": 1,
                 "system": {
-                    "id": "113774610747,
+                    "id": "113774610747",
                     "systemName": "COL 173 SECTOR GM-V D2-3",
                     "edsmID": 35497248
                 },
@@ -15757,7 +15757,7 @@
                 "longitude": -0.3500,
                 "frontierID": 1,
                 "system": {
-                    "id": "128242061185403,
+                    "id": "128242061185403",
                     "systemName": "EORL AUWSY SY-Z D13-3732",
                     "edsmID": 22202599
                 },
@@ -15775,7 +15775,7 @@
                 "longitude": 52.3133,
                 "frontierID": 2,
                 "system": {
-                    "id": "128242061185403,
+                    "id": "128242061185403",
                     "systemName": "EORL AUWSY SY-Z D13-3732",
                     "edsmID": 22202599
                 },
@@ -15793,7 +15793,7 @@
                 "longitude": -156.1423,
                 "frontierID": 3,
                 "system": {
-                    "id": "835379448155,
+                    "id": "835379448155",
                     "systemName": "COL 173 SECTOR ZK-O D6-24",
                     "edsmID": 58102087
                 },
@@ -15811,7 +15811,7 @@
                 "longitude": 89.5480,
                 "frontierID": 2,
                 "system": {
-                    "id": "835379448155,
+                    "id": "835379448155",
                     "systemName": "COL 173 SECTOR ZK-O D6-24",
                     "edsmID": 58102087
                 },
@@ -15829,7 +15829,7 @@
                 "longitude": 136.3990,
                 "frontierID": 1,
                 "system": {
-                    "id": "835379448155,
+                    "id": "835379448155",
                     "systemName": "COL 173 SECTOR ZK-O D6-24",
                     "edsmID": 58102087
                 },
@@ -15847,7 +15847,7 @@
                 "longitude": -127.5448,
                 "frontierID": 2,
                 "system": {
-                    "id": "85932577482,
+                    "id": "85932577482",
                     "systemName": "COL 173 SECTOR ID-Z C14-0",
                     "edsmID": 55252684
                 },
@@ -15865,7 +15865,7 @@
                 "longitude": -151.0849,
                 "frontierID": 1,
                 "system": {
-                    "id": "85932577482,
+                    "id": "85932577482",
                     "systemName": "COL 173 SECTOR ID-Z C14-0",
                     "edsmID": 55252684
                 },
@@ -15883,7 +15883,7 @@
                 "longitude": -107.6091,
                 "frontierID": 1,
                 "system": {
-                    "id": "128242061185403,
+                    "id": "128242061185403",
                     "systemName": "EORL AUWSY SY-Z D13-3732",
                     "edsmID": 22202599
                 },
@@ -15901,7 +15901,7 @@
                 "longitude": -174.8389,
                 "frontierID": 1,
                 "system": {
-                    "id": "190,
+                    "id": "190",
                     "systemName": "BLAE EORK NE-E D13-25",
                     "edsmID": 11558463
                 },
@@ -15919,7 +15919,7 @@
                 "longitude": -140.3401,
                 "frontierID": 2,
                 "system": {
-                    "id": "190,
+                    "id": "190",
                     "systemName": "BLAE EORK NE-E D13-25",
                     "edsmID": 11558463
                 },
@@ -15937,7 +15937,7 @@
                 "longitude": 133.0522,
                 "frontierID": 1,
                 "system": {
-                    "id": "866911857489,
+                    "id": "866911857489",
                     "systemName": "DROKOE FU-O B39-0",
                     "edsmID": 54338477
                 },
@@ -15955,7 +15955,7 @@
                 "longitude": 119.7074,
                 "frontierID": 2,
                 "system": {
-                    "id": "866911857489,
+                    "id": "866911857489",
                     "systemName": "DROKOE FU-O B39-0",
                     "edsmID": 54338477
                 },
@@ -15973,7 +15973,7 @@
                 "longitude": -169.6438,
                 "frontierID": 1,
                 "system": {
-                    "id": "5086179829153,
+                    "id": "5086179829153",
                     "systemName": "NGC 2516 SECTOR UT-Z B2",
                     "edsmID": 11347022
                 },
@@ -15991,7 +15991,7 @@
                 "longitude": -57.2234,
                 "frontierID": 2,
                 "system": {
-                    "id": "5086179829153,
+                    "id": "5086179829153",
                     "systemName": "NGC 2516 SECTOR UT-Z B2",
                     "edsmID": 11347022
                 },
@@ -16009,7 +16009,7 @@
                 "longitude": 123.7976,
                 "frontierID": 1,
                 "system": {
-                    "id": "634547605994,
+                    "id": "634547605994",
                     "systemName": "TRAPEZIUM SECTOR YU-X C1-2",
                     "edsmID": 1475056
                 },
@@ -16027,7 +16027,7 @@
                 "longitude": 48.1288,
                 "frontierID": 1,
                 "system": {
-                    "id": "9480736744841,
+                    "id": "9480736744841",
                     "systemName": "COL 173 SECTOR PD-B B29-4",
                     "edsmID": 66889312
                 },
@@ -16045,7 +16045,7 @@
                 "longitude": 119.1749,
                 "frontierID": 1,
                 "system": {
-                    "id": "9480736744841,
+                    "id": "9480736744841",
                     "systemName": "COL 173 SECTOR PD-B B29-4",
                     "edsmID": 66889312
                 },
@@ -16063,7 +16063,7 @@
                 "longitude": 47.1876,
                 "frontierID": 2,
                 "system": {
-                    "id": "9480736744841,
+                    "id": "9480736744841",
                     "systemName": "COL 173 SECTOR PD-B B29-4",
                     "edsmID": 66889312
                 },
@@ -16081,7 +16081,7 @@
                 "longitude": -164.7680,
                 "frontierID": 2,
                 "system": {
-                    "id": "1075947981163,
+                    "id": "1075947981163",
                     "systemName": "COL 173 SECTOR GH-L D8-31",
                     "edsmID": 67886442
                 },
@@ -16099,7 +16099,7 @@
                 "longitude": 136.1457,
                 "frontierID": 1,
                 "system": {
-                    "id": "1075947981163,
+                    "id": "1075947981163",
                     "systemName": "COL 173 SECTOR GH-L D8-31",
                     "edsmID": 67886442
                 },
@@ -16117,7 +16117,7 @@
                 "longitude": 20.7464,
                 "frontierID": 1,
                 "system": {
-                    "id": "1419511810411,
+                    "id": "1419511810411",
                     "systemName": "COL 173 SECTOR EH-L D8-41",
                     "edsmID": 24599275
                 },
@@ -16135,7 +16135,7 @@
                 "longitude": -138.3993,
                 "frontierID": 2,
                 "system": {
-                    "id": "1419511810411,
+                    "id": "1419511810411",
                     "systemName": "COL 173 SECTOR EH-L D8-41",
                     "edsmID": 24599275
                 },
@@ -16153,7 +16153,7 @@
                 "longitude": -99.8284,
                 "frontierID": 1,
                 "system": {
-                    "id": "7294607576723,
+                    "id": "7294607576723",
                     "systemName": "GRAEA HYPUE YE-Y D1-212",
                     "edsmID": 68026956
                 },
@@ -16171,7 +16171,7 @@
                 "longitude": -123.8779,
                 "frontierID": 2,
                 "system": {
-                    "id": "7294607576723,
+                    "id": "7294607576723",
                     "systemName": "GRAEA HYPUE YE-Y D1-212",
                     "edsmID": 68026956
                 },
@@ -16189,7 +16189,7 @@
                 "longitude": 21.8100,
                 "frontierID": 1,
                 "system": {
-                    "id": "104373126988,
+                    "id": "104373126988",
                     "systemName": "GRAEA HYPUE AA-Z E24",
                     "edsmID": 68065845
                 },
@@ -16207,7 +16207,7 @@
                 "longitude": -70.4834,
                 "frontierID": 1,
                 "system": {
-                    "id": "104373126988,
+                    "id": "104373126988",
                     "systemName": "GRAEA HYPUE AA-Z E24",
                     "edsmID": 68065845
                 },
@@ -16225,7 +16225,7 @@
                 "longitude": -53.7997,
                 "frontierID": 2,
                 "system": {
-                    "id": "104373126988,
+                    "id": "104373126988",
                     "systemName": "GRAEA HYPUE AA-Z E24",
                     "edsmID": 68065845
                 },
@@ -16243,7 +16243,7 @@
                 "longitude": -16.6690,
                 "frontierID": 1,
                 "system": {
-                    "id": "3343187300019,
+                    "id": "3343187300019",
                     "systemName": "GRAEA HYPUE PT-Q D5-97",
                     "edsmID": 68263223
                 },
@@ -16261,7 +16261,7 @@
                 "longitude": -161.5703,
                 "frontierID": 2,
                 "system": {
-                    "id": "3343187300019,
+                    "id": "3343187300019",
                     "systemName": "GRAEA HYPUE PT-Q D5-97",
                     "edsmID": 68263223
                 },
@@ -16279,7 +16279,7 @@
                 "longitude": 173.1957,
                 "frontierID": 1,
                 "system": {
-                    "id": "11680297461137,
+                    "id": "11680297461137",
                     "systemName": "VELA DARK REGION TD-S B4-5",
                     "edsmID": 68906163
                 },
@@ -16297,7 +16297,7 @@
                 "longitude": -150.9718,
                 "frontierID": 2,
                 "system": {
-                    "id": "11680297461137,
+                    "id": "11680297461137",
                     "systemName": "VELA DARK REGION TD-S B4-5",
                     "edsmID": 68906163
                 },
@@ -16315,7 +16315,7 @@
                 "longitude": 162.5174,
                 "frontierID": 3,
                 "system": {
-                    "id": "11680297461137,
+                    "id": "11680297461137",
                     "systemName": "VELA DARK REGION TD-S B4-5",
                     "edsmID": 68906163
                 },
@@ -16333,7 +16333,7 @@
                 "longitude": 120.3012,
                 "frontierID": 1,
                 "system": {
-                    "id": "11680297461137,
+                    "id": "11680297461137",
                     "systemName": "VELA DARK REGION TD-S B4-5",
                     "edsmID": 68906163
                 },
@@ -16351,7 +16351,7 @@
                 "longitude": 44.9471,
                 "frontierID": 1,
                 "system": {
-                    "id": "2009876632250,
+                    "id": "2009876632250",
                     "systemName": "COL 173 SECTOR VV-C C13-7",
                     "edsmID": 51659037
                 },
@@ -16369,7 +16369,7 @@
                 "longitude": -63.6531,
                 "frontierID": 2,
                 "system": {
-                    "id": "2009876632250,
+                    "id": "2009876632250",
                     "systemName": "COL 173 SECTOR VV-C C13-7",
                     "edsmID": 51659037
                 },
@@ -16387,7 +16387,7 @@
                 "longitude": 25.8088,
                 "frontierID": 1,
                 "system": {
-                    "id": "3411906776755,
+                    "id": "3411906776755",
                     "systemName": "GRAEA HYPUE PT-Q D5-99",
                     "edsmID": 68259583
                 },
@@ -16405,7 +16405,7 @@
                 "longitude": -49.3831,
                 "frontierID": 2,
                 "system": {
-                    "id": "869336551075,
+                    "id": "869336551075",
                     "systemName": "GRAEA HYPUE AG-V D3-25",
                     "edsmID": 68277746
                 },
@@ -16423,7 +16423,7 @@
                 "longitude": -11.3805,
                 "frontierID": 1,
                 "system": {
-                    "id": "869336551075,
+                    "id": "869336551075",
                     "systemName": "GRAEA HYPUE AG-V D3-25",
                     "edsmID": 68277746
                 },
@@ -16441,7 +16441,7 @@
                 "longitude": 102.1381,
                 "frontierID": 1,
                 "system": {
-                    "id": "869336551075,
+                    "id": "869336551075",
                     "systemName": "GRAEA HYPUE AG-V D3-25",
                     "edsmID": 68277746
                 },
@@ -16459,7 +16459,7 @@
                 "longitude": -35.5447,
                 "frontierID": 3,
                 "system": {
-                    "id": "688670647705,
+                    "id": "688670647705",
                     "systemName": "COL 173 SECTOR AU-Y B30-0",
                     "edsmID": 24408974
                 },
@@ -16477,7 +16477,7 @@
                 "longitude": 174.0693,
                 "frontierID": 1,
                 "system": {
-                    "id": "688670647705,
+                    "id": "688670647705",
                     "systemName": "COL 173 SECTOR AU-Y B30-0",
                     "edsmID": 24408974
                 },
@@ -16495,7 +16495,7 @@
                 "longitude": -139.9464,
                 "frontierID": 2,
                 "system": {
-                    "id": "688670647705,
+                    "id": "688670647705",
                     "systemName": "COL 173 SECTOR AU-Y B30-0",
                     "edsmID": 24408974
                 },
@@ -16513,7 +16513,7 @@
                 "longitude": -139.3551,
                 "frontierID": 1,
                 "system": {
-                    "id": "910163776186,
+                    "id": "910163776186",
                     "systemName": "COL 173 SECTOR MK-D C13-3",
                     "edsmID": 21927591
                 },
@@ -16531,7 +16531,7 @@
                 "longitude": 112.4522,
                 "frontierID": 2,
                 "system": {
-                    "id": "910163776186,
+                    "id": "910163776186",
                     "systemName": "COL 173 SECTOR MK-D C13-3",
                     "edsmID": 21927591
                 },
@@ -16549,7 +16549,7 @@
                 "longitude": -77.1914,
                 "frontierID": 3,
                 "system": {
-                    "id": "910163776186,
+                    "id": "910163776186",
                     "systemName": "COL 173 SECTOR MK-D C13-3",
                     "edsmID": 21927591
                 },
@@ -16567,7 +16567,7 @@
                 "longitude": -156.4016,
                 "frontierID": 1,
                 "system": {
-                    "id": "629170719059,
+                    "id": "629170719059",
                     "systemName": "COL 173 SECTOR OO-Q D5-18",
                     "edsmID": 53267619
                 },
@@ -16585,7 +16585,7 @@
                 "longitude": -55.3252,
                 "frontierID": 2,
                 "system": {
-                    "id": "629170719059,
+                    "id": "629170719059",
                     "systemName": "COL 173 SECTOR OO-Q D5-18",
                     "edsmID": 53267619
                 },
@@ -16603,7 +16603,7 @@
                 "longitude": 179.1323,
                 "frontierID": 3,
                 "system": {
-                    "id": "629170719059,
+                    "id": "629170719059",
                     "systemName": "COL 173 SECTOR OO-Q D5-18",
                     "edsmID": 53267619
                 },
@@ -16621,7 +16621,7 @@
                 "longitude": 13.2949,
                 "frontierID": 1,
                 "system": {
-                    "id": "629170719059,
+                    "id": "629170719059",
                     "systemName": "COL 173 SECTOR OO-Q D5-18",
                     "edsmID": 53267619
                 },
@@ -16639,7 +16639,7 @@
                 "longitude": 88.9069,
                 "frontierID": 2,
                 "system": {
-                    "id": "629170719059,
+                    "id": "629170719059",
                     "systemName": "COL 173 SECTOR OO-Q D5-18",
                     "edsmID": 53267619
                 },
@@ -16657,7 +16657,7 @@
                 "longitude": 6.3795,
                 "frontierID": 1,
                 "system": {
-                    "id": "7282787951945,
+                    "id": "7282787951945",
                     "systemName": "COL 173 SECTOR RI-R B21-3",
                     "edsmID": 50909665
                 },
@@ -16675,7 +16675,7 @@
                 "longitude": -3.8707,
                 "frontierID": 2,
                 "system": {
-                    "id": "7282787951945,
+                    "id": "7282787951945",
                     "systemName": "COL 173 SECTOR RI-R B21-3",
                     "edsmID": 50909665
                 },
@@ -16693,7 +16693,7 @@
                 "longitude": -172.5837,
                 "frontierID": 3,
                 "system": {
-                    "id": "7282787951945,
+                    "id": "7282787951945",
                     "systemName": "COL 173 SECTOR RI-R B21-3",
                     "edsmID": 50909665
                 },
@@ -16711,7 +16711,7 @@
                 "longitude": 14.3983,
                 "frontierID": 1,
                 "system": {
-                    "id": "2009944003282,
+                    "id": "2009944003282",
                     "systemName": "COL 173 SECTOR SB-Z C15-7",
                     "edsmID": 32962168
                 },
@@ -16729,7 +16729,7 @@
                 "longitude": -119.3528,
                 "frontierID": 2,
                 "system": {
-                    "id": "2009944003282,
+                    "id": "2009944003282",
                     "systemName": "COL 173 SECTOR SB-Z C15-7",
                     "edsmID": 32962168
                 },
@@ -16747,7 +16747,7 @@
                 "longitude": 9.5050,
                 "frontierID": 3,
                 "system": {
-                    "id": "2009944003282,
+                    "id": "2009944003282",
                     "systemName": "COL 173 SECTOR SB-Z C15-7",
                     "edsmID": 32962168
                 },
@@ -16765,7 +16765,7 @@
                 "longitude": -148.3974,
                 "frontierID": 1,
                 "system": {
-                    "id": "9481811469745,
+                    "id": "9481811469745",
                     "systemName": "COL 173 SECTOR JE-V B33-4",
                     "edsmID": 10225920
                 },
@@ -16783,7 +16783,7 @@
                 "longitude": -11.6896,
                 "frontierID": 2,
                 "system": {
-                    "id": "9481811469745,
+                    "id": "9481811469745",
                     "systemName": "COL 173 SECTOR JE-V B33-4",
                     "edsmID": 10225920
                 },
@@ -16801,7 +16801,7 @@
                 "longitude": -94.8628,
                 "frontierID": 3,
                 "system": {
-                    "id": "9481811469745,
+                    "id": "9481811469745",
                     "systemName": "COL 173 SECTOR JE-V B33-4",
                     "edsmID": 10225920
                 },
@@ -16819,7 +16819,7 @@
                 "longitude": 142.4189,
                 "frontierID": 1,
                 "system": {
-                    "id": "1866154871163,
+                    "id": "1866154871163",
                     "systemName": "COL 173 SECTOR IY-H D10-54",
                     "edsmID": 23831469
                 },
@@ -16837,7 +16837,7 @@
                 "longitude": -130.4144,
                 "frontierID": 2,
                 "system": {
-                    "id": "1866154871163,
+                    "id": "1866154871163",
                     "systemName": "COL 173 SECTOR IY-H D10-54",
                     "edsmID": 23831469
                 },
@@ -16855,7 +16855,7 @@
                 "longitude": -14.2210,
                 "frontierID": 1,
                 "system": {
-                    "id": "6133179650754,
+                    "id": "6133179650754",
                     "systemName": "COL 173 SECTOR PF-C C14-22",
                     "edsmID": 22987242
                 },
@@ -16873,7 +16873,7 @@
                 "longitude": -124.8500,
                 "frontierID": 2,
                 "system": {
-                    "id": "6133179650754,
+                    "id": "6133179650754",
                     "systemName": "COL 173 SECTOR PF-C C14-22",
                     "edsmID": 22987242
                 },
@@ -16891,7 +16891,7 @@
                 "longitude": 37.4016,
                 "frontierID": 3,
                 "system": {
-                    "id": "6133179650754,
+                    "id": "6133179650754",
                     "systemName": "COL 173 SECTOR PF-C C14-22",
                     "edsmID": 22987242
                 },
@@ -16909,7 +16909,7 @@
                 "longitude": 107.5815,
                 "frontierID": 1,
                 "system": {
-                    "id": "360810681026,
+                    "id": "360810681026",
                     "systemName": "COL 173 SECTOR SA-C C14-1",
                     "edsmID": 51158039
                 },
@@ -16927,7 +16927,7 @@
                 "longitude": -107.8969,
                 "frontierID": 1,
                 "system": {
-                    "id": "360810681026,
+                    "id": "360810681026",
                     "systemName": "COL 173 SECTOR SA-C C14-1",
                     "edsmID": 51158039
                 },
@@ -16945,7 +16945,7 @@
                 "longitude": -77.0579,
                 "frontierID": 2,
                 "system": {
-                    "id": "360810681026,
+                    "id": "360810681026",
                     "systemName": "COL 173 SECTOR SA-C C14-1",
                     "edsmID": 51158039
                 },
@@ -16963,7 +16963,7 @@
                 "longitude": 76.1372,
                 "frontierID": 1,
                 "system": {
-                    "id": "3824223653555,
+                    "id": "3824223653555",
                     "systemName": "GRAEA HYPUE NY-Q D5-111",
                     "edsmID": 66483950
                 },
@@ -16981,7 +16981,7 @@
                 "longitude": 128.5669,
                 "frontierID": 2,
                 "system": {
-                    "id": "3824223653555,
+                    "id": "3824223653555",
                     "systemName": "GRAEA HYPUE NY-Q D5-111",
                     "edsmID": 66483950
                 },
@@ -16999,7 +16999,7 @@
                 "longitude": -13.7725,
                 "frontierID": 1,
                 "system": {
-                    "id": "661382941827,
+                    "id": "661382941827",
                     "systemName": "PRAI HYPOO RC-C D19",
                     "edsmID": 52314661
                 },
@@ -17017,7 +17017,7 @@
                 "longitude": -22.8782,
                 "frontierID": 2,
                 "system": {
-                    "id": "661382941827,
+                    "id": "661382941827",
                     "systemName": "PRAI HYPOO RC-C D19",
                     "edsmID": 52314661
                 },
@@ -17035,7 +17035,7 @@
                 "longitude": -161.5367,
                 "frontierID": 1,
                 "system": {
-                    "id": "16055793891945,
+                    "id": "16055793891945",
                     "systemName": "GRAEA HYPUE QY-J B12-7",
                     "edsmID": 69830112
                 },
@@ -17053,7 +17053,7 @@
                 "longitude": 87.7802,
                 "frontierID": 2,
                 "system": {
-                    "id": "16055793891945,
+                    "id": "16055793891945",
                     "systemName": "GRAEA HYPUE QY-J B12-7",
                     "edsmID": 69830112
                 },
@@ -17071,7 +17071,7 @@
                 "longitude": -117.5054,
                 "frontierID": 1,
                 "system": {
-                    "id": "16055793891945,
+                    "id": "16055793891945",
                     "systemName": "GRAEA HYPUE QY-J B12-7",
                     "edsmID": 69830112
                 },
@@ -17089,7 +17089,7 @@
                 "longitude": 83.5731,
                 "frontierID": 1,
                 "system": {
-                    "id": "560115633819,
+                    "id": "560115633819",
                     "systemName": "GRAEA HYPUE DL-W D2-16",
                     "edsmID": 69829572
                 },
@@ -17107,7 +17107,7 @@
                 "longitude": 122.4173,
                 "frontierID": 2,
                 "system": {
-                    "id": "560115633819,
+                    "id": "560115633819",
                     "systemName": "GRAEA HYPUE DL-W D2-16",
                     "edsmID": 69829572
                 },
@@ -17125,7 +17125,7 @@
                 "longitude": -101.2964,
                 "frontierID": 1,
                 "system": {
-                    "id": "2861654555233,
+                    "id": "2861654555233",
                     "systemName": "GRAEA HYPUE GH-M B11-1",
                     "edsmID": 69900796
                 },
@@ -17143,7 +17143,7 @@
                 "longitude": 51.8559,
                 "frontierID": 2,
                 "system": {
-                    "id": "2861654555233,
+                    "id": "2861654555233",
                     "systemName": "GRAEA HYPUE GH-M B11-1",
                     "edsmID": 69900796
                 },
@@ -17161,7 +17161,7 @@
                 "longitude": 101.3075,
                 "frontierID": 1,
                 "system": {
-                    "id": "2071927393955,
+                    "id": "2071927393955",
                     "systemName": "GRAEA HYPUE AG-V D3-60",
                     "edsmID": 68280796
                 },
@@ -17179,7 +17179,7 @@
                 "longitude": -9.5897,
                 "frontierID": 2,
                 "system": {
-                    "id": "2071927393955,
+                    "id": "2071927393955",
                     "systemName": "GRAEA HYPUE AG-V D3-60",
                     "edsmID": 68280796
                 },
@@ -17197,7 +17197,7 @@
                 "longitude": 87.4248,
                 "frontierID": 1,
                 "system": {
-                    "id": "2243726085795,
+                    "id": "2243726085795",
                     "systemName": "GRAEA HYPUE AG-V D3-65",
                     "edsmID": 68282477
                 },
@@ -17215,7 +17215,7 @@
                 "longitude": 135.4541,
                 "frontierID": 2,
                 "system": {
-                    "id": "2243726085795,
+                    "id": "2243726085795",
                     "systemName": "GRAEA HYPUE AG-V D3-65",
                     "edsmID": 68282477
                 },
@@ -17233,7 +17233,7 @@
                 "longitude": 1.6774,
                 "frontierID": 1,
                 "system": {
-                    "id": "2243726085795,
+                    "id": "2243726085795",
                     "systemName": "GRAEA HYPUE AG-V D3-65",
                     "edsmID": 68282477
                 },
@@ -17251,7 +17251,7 @@
                 "longitude": -101.4650,
                 "frontierID": 1,
                 "system": {
-                    "id": "8737716637347,
+                    "id": "8737716637347",
                     "systemName": "GRAEA HYPUE AG-V D3-254",
                     "edsmID": 68282188
                 },
@@ -17269,7 +17269,7 @@
                 "longitude": -76.1534,
                 "frontierID": 1,
                 "system": {
-                    "id": "8737716637347,
+                    "id": "8737716637347",
                     "systemName": "GRAEA HYPUE AG-V D3-254",
                     "edsmID": 68282188
                 },
@@ -17287,7 +17287,7 @@
                 "longitude": -142.4260,
                 "frontierID": 2,
                 "system": {
-                    "id": "8737716637347,
+                    "id": "8737716637347",
                     "systemName": "GRAEA HYPUE AG-V D3-254",
                     "edsmID": 68282188
                 },
@@ -17305,7 +17305,7 @@
                 "longitude": 138.2264,
                 "frontierID": 1,
                 "system": {
-                    "id": "5095533973171,
+                    "id": "5095533973171",
                     "systemName": "GRAEA HYPUE NY-Q D5-148",
                     "edsmID": 66515319
                 },
@@ -17323,7 +17323,7 @@
                 "longitude": -45.4878,
                 "frontierID": 2,
                 "system": {
-                    "id": "5095533973171,
+                    "id": "5095533973171",
                     "systemName": "GRAEA HYPUE NY-Q D5-148",
                     "edsmID": 66515319
                 },
@@ -17341,7 +17341,7 @@
                 "longitude": -176.3978,
                 "frontierID": 1,
                 "system": {
-                    "id": "4202180759219,
+                    "id": "4202180759219",
                     "systemName": "GRAEA HYPUE PT-Q D5-122",
                     "edsmID": 68262564
                 },
@@ -17359,7 +17359,7 @@
                 "longitude": 52.1444,
                 "frontierID": 2,
                 "system": {
-                    "id": "4202180759219,
+                    "id": "4202180759219",
                     "systemName": "GRAEA HYPUE PT-Q D5-122",
                     "edsmID": 68262564
                 },
@@ -17377,7 +17377,7 @@
                 "longitude": -2.0583,
                 "frontierID": 1,
                 "system": {
-                    "id": "4202180759219,
+                    "id": "4202180759219",
                     "systemName": "GRAEA HYPUE PT-Q D5-122",
                     "edsmID": 68262564
                 },
@@ -17395,7 +17395,7 @@
                 "longitude": -41.1674,
                 "frontierID": 1,
                 "system": {
-                    "id": "29249396685417,
+                    "id": "29249396685417",
                     "systemName": "GRAEA HYPUE KI-K B12-13",
                     "edsmID": 71503730
                 },
@@ -17413,7 +17413,7 @@
                 "longitude": 165.4944,
                 "frontierID": 2,
                 "system": {
-                    "id": "29249396685417,
+                    "id": "29249396685417",
                     "systemName": "GRAEA HYPUE KI-K B12-13",
                     "edsmID": 71503730
                 },
@@ -17431,7 +17431,7 @@
                 "longitude": 102.1707,
                 "frontierID": 1,
                 "system": {
-                    "id": "2887155398881,
+                    "id": "2887155398881",
                     "systemName": "BLAA HYPAI BN-I B26-1",
                     "edsmID": 30951370
                 },
@@ -17449,7 +17449,7 @@
                 "longitude": 135.9496,
                 "frontierID": 1,
                 "system": {
-                    "id": "1460187634810,
+                    "id": "1460187634810",
                     "systemName": "BLAE HYPUE KG-C C14-5",
                     "edsmID": 1957960
                 },
@@ -17467,7 +17467,7 @@
                 "longitude": 145.2575,
                 "frontierID": 2,
                 "system": {
-                    "id": "1460187634810,
+                    "id": "1460187634810",
                     "systemName": "BLAE HYPUE KG-C C14-5",
                     "edsmID": 1957960
                 },
@@ -17485,7 +17485,7 @@
                 "longitude": 133.0830,
                 "frontierID": 3,
                 "system": {
-                    "id": "1460187634810,
+                    "id": "1460187634810",
                     "systemName": "BLAE HYPUE KG-C C14-5",
                     "edsmID": 1957960
                 },
@@ -17503,7 +17503,7 @@
                 "longitude": -73.8643,
                 "frontierID": 1,
                 "system": {
-                    "id": "216887316027,
+                    "id": "216887316027",
                     "systemName": "BLAE HYPUE DA-P D6-6",
                     "edsmID": 41899716
                 },
@@ -17521,7 +17521,7 @@
                 "longitude": 46.4268,
                 "frontierID": 2,
                 "system": {
-                    "id": "216887316027,
+                    "id": "216887316027",
                     "systemName": "BLAE HYPUE DA-P D6-6",
                     "edsmID": 41899716
                 },
@@ -17539,7 +17539,7 @@
                 "longitude": -128.0858,
                 "frontierID": 3,
                 "system": {
-                    "id": "216887316027,
+                    "id": "216887316027",
                     "systemName": "BLAE HYPUE DA-P D6-6",
                     "edsmID": 41899716
                 },
@@ -17557,7 +17557,7 @@
                 "longitude": 175.2019,
                 "frontierID": 1,
                 "system": {
-                    "id": "13879320782233,
+                    "id": "13879320782233",
                     "systemName": "VELA DARK REGION VO-Q B5-6",
                     "edsmID": 27307827
                 },
@@ -17575,7 +17575,7 @@
                 "longitude": 57.4172,
                 "frontierID": 2,
                 "system": {
-                    "id": "13879320782233,
+                    "id": "13879320782233",
                     "systemName": "VELA DARK REGION VO-Q B5-6",
                     "edsmID": 27307827
                 },
@@ -17593,7 +17593,7 @@
                 "longitude": 45.6182,
                 "frontierID": 1,
                 "system": {
-                    "id": "13879320782233,
+                    "id": "13879320782233",
                     "systemName": "VELA DARK REGION VO-Q B5-6",
                     "edsmID": 27307827
                 },
@@ -17611,7 +17611,7 @@
                 "longitude": -69.2356,
                 "frontierID": 1,
                 "system": {
-                    "id": "18277098792345,
+                    "id": "18277098792345",
                     "systemName": "VELA DARK REGION WJ-Q B5-8",
                     "edsmID": 4576041
                 },
@@ -17629,7 +17629,7 @@
                 "longitude": -153.6366,
                 "frontierID": 2,
                 "system": {
-                    "id": "18277098792345,
+                    "id": "18277098792345",
                     "systemName": "VELA DARK REGION WJ-Q B5-8",
                     "edsmID": 4576041
                 },
@@ -17647,7 +17647,7 @@
                 "longitude": -104.1185,
                 "frontierID": 1,
                 "system": {
-                    "id": "18277098792345,
+                    "id": "18277098792345",
                     "systemName": "VELA DARK REGION WJ-Q B5-8",
                     "edsmID": 4576041
                 },
@@ -17665,7 +17665,7 @@
                 "longitude": -56.4781,
                 "frontierID": 1,
                 "system": {
-                    "id": "2622153001331,
+                    "id": "2622153001331",
                     "systemName": "COL 173 SECTOR JS-J D9-76",
                     "edsmID": 71659929
                 },
@@ -17683,7 +17683,7 @@
                 "longitude": -64.2067,
                 "frontierID": 2,
                 "system": {
-                    "id": "2622153001331,
+                    "id": "2622153001331",
                     "systemName": "COL 173 SECTOR JS-J D9-76",
                     "edsmID": 71659929
                 },
@@ -17701,7 +17701,7 @@
                 "longitude": -15.1583,
                 "frontierID": 1,
                 "system": {
-                    "id": "2622153001331,
+                    "id": "2622153001331",
                     "systemName": "COL 173 SECTOR JS-J D9-76",
                     "edsmID": 71659929
                 },
@@ -17719,7 +17719,7 @@
                 "longitude": 64.1957,
                 "frontierID": 1,
                 "system": {
-                    "id": "6160669101707,
+                    "id": "6160669101707",
                     "systemName": "GRAEA HYPUE QY-Z D179",
                     "edsmID": 71840638
                 },
@@ -17737,7 +17737,7 @@
                 "longitude": 120.9913,
                 "frontierID": 1,
                 "system": {
-                    "id": "10352540421795,
+                    "id": "10352540421795",
                     "systemName": "GRAEA HYPUE ZV-U D3-301",
                     "edsmID": 72338579
                 },
@@ -17755,7 +17755,7 @@
                 "longitude": -44.7804,
                 "frontierID": 1,
                 "system": {
-                    "id": "10352540421795,
+                    "id": "10352540421795",
                     "systemName": "GRAEA HYPUE ZV-U D3-301",
                     "edsmID": 72338579
                 },
@@ -17773,7 +17773,7 @@
                 "longitude": 10.8893,
                 "frontierID": 2,
                 "system": {
-                    "id": "10352540421795,
+                    "id": "10352540421795",
                     "systemName": "GRAEA HYPUE ZV-U D3-301",
                     "edsmID": 72338579
                 },
@@ -17791,7 +17791,7 @@
                 "longitude": -99.5839,
                 "frontierID": 1,
                 "system": {
-                    "id": "8325315874475,
+                    "id": "8325315874475",
                     "systemName": "GRAEA HYPUE BH-T D4-242",
                     "edsmID": 72374710
                 },
@@ -17809,7 +17809,7 @@
                 "longitude": -15.0199,
                 "frontierID": 1,
                 "system": {
-                    "id": "8325315874475,
+                    "id": "8325315874475",
                     "systemName": "GRAEA HYPUE BH-T D4-242",
                     "edsmID": 72374710
                 },
@@ -17827,7 +17827,7 @@
                 "longitude": -135.8257,
                 "frontierID": 1,
                 "system": {
-                    "id": "2884472415729,
+                    "id": "2884472415729",
                     "systemName": "COL 173 SECTOR OP-E B41-1",
                     "edsmID": 72304984
                 },
@@ -17845,7 +17845,7 @@
                 "longitude": 154.2704,
                 "frontierID": 2,
                 "system": {
-                    "id": "2884472415729,
+                    "id": "2884472415729",
                     "systemName": "COL 173 SECTOR OP-E B41-1",
                     "edsmID": 72304984
                 },
@@ -17863,7 +17863,7 @@
                 "longitude": 36.2506,
                 "frontierID": 1,
                 "system": {
-                    "id": "7397586161315,
+                    "id": "7397586161315",
                     "systemName": "GRAEA HYPUE WA-V D3-215",
                     "edsmID": 72530769
                 },
@@ -17881,7 +17881,7 @@
                 "longitude": -143.8279,
                 "frontierID": 2,
                 "system": {
-                    "id": "8325315874475,
+                    "id": "8325315874475",
                     "systemName": "GRAEA HYPUE BH-T D4-242",
                     "edsmID": 72374710
                 },
@@ -17899,7 +17899,7 @@
                 "longitude": -2.4414,
                 "frontierID": 1,
                 "system": {
-                    "id": "5084032673305,
+                    "id": "5084032673305",
                     "systemName": "SWOILZ PA-F B3-2",
                     "edsmID": 65262529
                 },
@@ -17917,7 +17917,7 @@
                 "longitude": 145.9568,
                 "frontierID": 3,
                 "system": {
-                    "id": "5084032673305,
+                    "id": "5084032673305",
                     "systemName": "SWOILZ PA-F B3-2",
                     "edsmID": 65262529
                 },
@@ -17935,7 +17935,7 @@
                 "longitude": -19.1101,
                 "frontierID": 2,
                 "system": {
-                    "id": "5084032673305,
+                    "id": "5084032673305",
                     "systemName": "SWOILZ PA-F B3-2",
                     "edsmID": 65262529
                 },
@@ -17953,7 +17953,7 @@
                 "longitude": -54.1014,
                 "frontierID": 2,
                 "system": {
-                    "id": "3659077096194,
+                    "id": "3659077096194",
                     "systemName": "SWOILZ AE-F C13",
                     "edsmID": 73892039
                 },
@@ -17971,7 +17971,7 @@
                 "longitude": -27.8733,
                 "frontierID": 1,
                 "system": {
-                    "id": "3659077096194,
+                    "id": "3659077096194",
                     "systemName": "SWOILZ AE-F C13",
                     "edsmID": 73892039
                 },
@@ -17989,7 +17989,7 @@
                 "longitude": -116.1048,
                 "frontierID": 1,
                 "system": {
-                    "id": "687595403529,
+                    "id": "687595403529",
                     "systemName": "BLAA HYPAI PB-A B31-0",
                     "edsmID": 30872732
                 },
@@ -18007,7 +18007,7 @@
                 "longitude": 142.9382,
                 "frontierID": 2,
                 "system": {
-                    "id": "4064741822131,
+                    "id": "4064741822131",
                     "systemName": "GRAEA HYPUE NY-Q D5-118",
                     "edsmID": 66485303
                 },
@@ -18025,7 +18025,7 @@
                 "longitude": 159.0268,
                 "frontierID": 1,
                 "system": {
-                    "id": "4754830499138,
+                    "id": "4754830499138",
                     "systemName": "GRAEA HYPUE QG-Q C7-17",
                     "edsmID": 73826346
                 },
@@ -18043,7 +18043,7 @@
                 "longitude": -36.6449,
                 "frontierID": 3,
                 "system": {
-                    "id": "684375090465,
+                    "id": "684375090465",
                     "systemName": "COL 173 SECTOR UM-X B16-0",
                     "edsmID": 78214716
                 },
@@ -18061,7 +18061,7 @@
                 "longitude": 35.9730,
                 "frontierID": 1,
                 "system": {
-                    "id": "9481273943529,
+                    "id": "9481273943529",
                     "systemName": "COL 173 SECTOR DY-G B40-4",
                     "edsmID": 56302867
                 },
@@ -18079,7 +18079,7 @@
                 "longitude": -131.6533,
                 "frontierID": 2,
                 "system": {
-                    "id": "9481273943529,
+                    "id": "9481273943529",
                     "systemName": "COL 173 SECTOR DY-G B40-4",
                     "edsmID": 56302867
                 },
@@ -18097,7 +18097,7 @@
                 "longitude": 142.7258,
                 "frontierID": 3,
                 "system": {
-                    "id": "9481273943529,
+                    "id": "9481273943529",
                     "systemName": "COL 173 SECTOR DY-G B40-4",
                     "edsmID": 56302867
                 },
@@ -18115,7 +18115,7 @@
                 "longitude": -114.8900,
                 "frontierID": 1,
                 "system": {
-                    "id": "546399072737,
+                    "id": "546399072737",
                     "systemName": "NYEAJEOU VP-G B56-0",
                     "edsmID": 5459124
                 },
@@ -18133,7 +18133,7 @@
                 "longitude": 86.6656,
                 "frontierID": 2,
                 "system": {
-                    "id": "546399072737,
+                    "id": "546399072737",
                     "systemName": "NYEAJEOU VP-G B56-0",
                     "edsmID": 5459124
                 },
@@ -18151,7 +18151,7 @@
                 "longitude": -166.7135,
                 "frontierID": 1,
                 "system": {
-                    "id": "866106354521,
+                    "id": "866106354521",
                     "systemName": "DROKOE ML-M B40-0",
                     "edsmID": 54721825
                 },
@@ -18169,7 +18169,7 @@
                 "longitude": 45.0630,
                 "frontierID": 2,
                 "system": {
-                    "id": "866106354521,
+                    "id": "866106354521",
                     "systemName": "DROKOE ML-M B40-0",
                     "edsmID": 54721825
                 },
@@ -18187,7 +18187,7 @@
                 "longitude": -96.4174,
                 "frontierID": 1,
                 "system": {
-                    "id": "866106354521,
+                    "id": "866106354521",
                     "systemName": "DROKOE ML-M B40-0",
                     "edsmID": 54721825
                 },
@@ -18205,7 +18205,7 @@
                 "longitude": 93.8843,
                 "frontierID": 1,
                 "system": {
-                    "id": "866643094361,
+                    "id": "866643094361",
                     "systemName": "DROKOE SB-M B40-0",
                     "edsmID": 28977623
                 },
@@ -18223,7 +18223,7 @@
                 "longitude": -79.7276,
                 "frontierID": 2,
                 "system": {
-                    "id": "866643094361,
+                    "id": "866643094361",
                     "systemName": "DROKOE SB-M B40-0",
                     "edsmID": 28977623
                 },
@@ -18241,7 +18241,7 @@
                 "longitude": 40.3683,
                 "frontierID": 1,
                 "system": {
-                    "id": "15473399861627,
+                    "id": "15473399861627",
                     "systemName": "EORL AUWSY SY-Z D13-450",
                     "edsmID": 21583655
                 },
@@ -18259,7 +18259,7 @@
                 "longitude": 150.1474,
                 "frontierID": 2,
                 "system": {
-                    "id": "15473399861627,
+                    "id": "15473399861627",
                     "systemName": "EORL AUWSY SY-Z D13-450",
                     "edsmID": 21583655
                 },
@@ -18277,7 +18277,7 @@
                 "longitude": 98.0192,
                 "frontierID": 2,
                 "system": {
-                    "id": "6160669101707,
+                    "id": "6160669101707",
                     "systemName": "GRAEA HYPUE QY-Z D179",
                     "edsmID": 71840638
                 },
@@ -18295,7 +18295,7 @@
                 "longitude": -28.9556,
                 "frontierID": 1,
                 "system": {
-                    "id": "4754830499138,
+                    "id": "4754830499138",
                     "systemName": "GRAEA HYPUE QG-Q C7-17",
                     "edsmID": 73826346
                 },
@@ -18313,7 +18313,7 @@
                 "longitude": 11.4285,
                 "frontierID": 2,
                 "system": {
-                    "id": "4754830499138,
+                    "id": "4754830499138",
                     "systemName": "GRAEA HYPUE QG-Q C7-17",
                     "edsmID": 73826346
                 },
@@ -18331,7 +18331,7 @@
                 "longitude": 108.5511,
                 "frontierID": 1,
                 "system": {
-                    "id": "6160669101707,
+                    "id": "6160669101707",
                     "systemName": "GRAEA HYPUE QY-Z D179",
                     "edsmID": 71840638
                 },
@@ -18349,7 +18349,7 @@
                 "longitude": -132.6466,
                 "frontierID": 1,
                 "system": {
-                    "id": "2003140759187,
+                    "id": "2003140759187",
                     "systemName": "GRAEA HYPUE UE-Y D1-58",
                     "edsmID": 71854583
                 },
@@ -18367,7 +18367,7 @@
                 "longitude": 156.3242,
                 "frontierID": 1,
                 "system": {
-                    "id": "684375090465,
+                    "id": "684375090465",
                     "systemName": "COL 173 SECTOR UM-X B16-0",
                     "edsmID": 78214716
                 },
@@ -18385,7 +18385,7 @@
                 "longitude": 174.9977,
                 "frontierID": 2,
                 "system": {
-                    "id": "684375090465,
+                    "id": "684375090465",
                     "systemName": "COL 173 SECTOR UM-X B16-0",
                     "edsmID": 78214716
                 },
@@ -18403,7 +18403,7 @@
                 "longitude": 71.2402,
                 "frontierID": 2,
                 "system": {
-                    "id": "2003140759187,
+                    "id": "2003140759187",
                     "systemName": "GRAEA HYPUE UE-Y D1-58",
                     "edsmID": 71854583
                 },
@@ -18421,7 +18421,7 @@
                 "longitude": 108.6209,
                 "frontierID": 1,
                 "system": {
-                    "id": "7397586161315,
+                    "id": "7397586161315",
                     "systemName": "GRAEA HYPUE WA-V D3-215",
                     "edsmID": 72530769
                 },
@@ -18439,7 +18439,7 @@
                 "longitude": -1.8224,
                 "frontierID": 2,
                 "system": {
-                    "id": "7397586161315,
+                    "id": "7397586161315",
                     "systemName": "GRAEA HYPUE WA-V D3-215",
                     "edsmID": 72530769
                 },
@@ -18457,7 +18457,7 @@
                 "longitude": -51.3637,
                 "frontierID": 1,
                 "system": {
-                    "id": "4064741822131,
+                    "id": "4064741822131",
                     "systemName": "GRAEA HYPUE NY-Q D5-118",
                     "edsmID": 66485303
                 },
@@ -18475,7 +18475,7 @@
                 "longitude": 38.6423,
                 "frontierID": 1,
                 "system": {
-                    "id": "9428023188770,
+                    "id": "9428023188770",
                     "systemName": "GRAEA HYPUE OJ-W C3-34",
                     "edsmID": 71870004
                 },
@@ -18493,7 +18493,7 @@
                 "longitude": 146.8137,
                 "frontierID": 1,
                 "system": {
-                    "id": "9428023188770,
+                    "id": "9428023188770",
                     "systemName": "GRAEA HYPUE OJ-W C3-34",
                     "edsmID": 71870004
                 },
@@ -18511,7 +18511,7 @@
                 "longitude": 35.6404,
                 "frontierID": 2,
                 "system": {
-                    "id": "9428023188770,
+                    "id": "9428023188770",
                     "systemName": "GRAEA HYPUE OJ-W C3-34",
                     "edsmID": 71870004
                 },
@@ -18529,7 +18529,7 @@
                 "longitude": 25.8924,
                 "frontierID": 1,
                 "system": {
-                    "id": "2003140759187,
+                    "id": "2003140759187",
                     "systemName": "GRAEA HYPUE UE-Y D1-58",
                     "edsmID": 71854583
                 },
@@ -18547,7 +18547,7 @@
                 "longitude": -24.0240,
                 "frontierID": 1,
                 "system": {
-                    "id": "3171355070099,
+                    "id": "3171355070099",
                     "systemName": "GRAEA HYPUE VZ-X D1-92",
                     "edsmID": 72146588
                 },
@@ -18565,7 +18565,7 @@
                 "longitude": -152.5113,
                 "frontierID": 2,
                 "system": {
-                    "id": "3171355070099,
+                    "id": "3171355070099",
                     "systemName": "GRAEA HYPUE VZ-X D1-92",
                     "edsmID": 72146588
                 },
@@ -18583,7 +18583,7 @@
                 "longitude": -128.9278,
                 "frontierID": 1,
                 "system": {
-                    "id": "9452818610753,
+                    "id": "9452818610753",
                     "systemName": "GRAEA HYPUE YX-S B7-4",
                     "edsmID": 73593617
                 },
@@ -18601,7 +18601,7 @@
                 "longitude": -135.5623,
                 "frontierID": 2,
                 "system": {
-                    "id": "9452818610753,
+                    "id": "9452818610753",
                     "systemName": "GRAEA HYPUE YX-S B7-4",
                     "edsmID": 73593617
                 },
@@ -18619,7 +18619,7 @@
                 "longitude": 162.2237,
                 "frontierID": 1,
                 "system": {
-                    "id": "9452818610753,
+                    "id": "9452818610753",
                     "systemName": "GRAEA HYPUE YX-S B7-4",
                     "edsmID": 73593617
                 },
@@ -18637,7 +18637,7 @@
                 "longitude": 132.1540,
                 "frontierID": 2,
                 "system": {
-                    "id": "6676048416443,
+                    "id": "6676048416443",
                     "systemName": "GRAEA HYPUE LO-P D6-194",
                     "edsmID": 81969718
                 },
@@ -18655,7 +18655,7 @@
                 "longitude": -45.4324,
                 "frontierID": 1,
                 "system": {
-                    "id": "6676048416443,
+                    "id": "6676048416443",
                     "systemName": "GRAEA HYPUE LO-P D6-194",
                     "edsmID": 81969718
                 },
@@ -18673,7 +18673,7 @@
                 "longitude": -112.0908,
                 "frontierID": 1,
                 "system": {
-                    "id": "6676048416443,
+                    "id": "6676048416443",
                     "systemName": "GRAEA HYPUE LO-P D6-194",
                     "edsmID": 81969718
                 },
@@ -18691,7 +18691,7 @@
                 "longitude": -175.2525,
                 "frontierID": 2,
                 "system": {
-                    "id": "687595403529,
+                    "id": "687595403529",
                     "systemName": "BLAA HYPAI PB-A B31-0",
                     "edsmID": 30872732
                 },
@@ -18709,7 +18709,7 @@
                 "longitude": 152.6923,
                 "frontierID": 3,
                 "system": {
-                    "id": "687595403529,
+                    "id": "687595403529",
                     "systemName": "BLAA HYPAI PB-A B31-0",
                     "edsmID": 30872732
                 },
@@ -18727,7 +18727,7 @@
                 "longitude": -66.1289,
                 "frontierID": 1,
                 "system": {
-                    "id": "60030622186225,
+                    "id": "60030622186225",
                     "systemName": "GRAEA HYPUE BX-G B28-27",
                     "edsmID": 81982749
                 },
@@ -18745,7 +18745,7 @@
                 "longitude": -49.6492,
                 "frontierID": 2,
                 "system": {
-                    "id": "60030622186225,
+                    "id": "60030622186225",
                     "systemName": "GRAEA HYPUE BX-G B28-27",
                     "edsmID": 81982749
                 },
@@ -18763,7 +18763,7 @@
                 "longitude": 133.6322,
                 "frontierID": 1,
                 "system": {
-                    "id": "32243090988362,
+                    "id": "32243090988362",
                     "systemName": "GRAEA HYPUE ZR-O C8-117",
                     "edsmID": 85615689
                 },
@@ -18781,7 +18781,7 @@
                 "longitude": 168.7765,
                 "frontierID": 2,
                 "system": {
-                    "id": "32243090988362,
+                    "id": "32243090988362",
                     "systemName": "GRAEA HYPUE ZR-O C8-117",
                     "edsmID": 85615689
                 },
@@ -18799,7 +18799,7 @@
                 "longitude": 52.3970,
                 "frontierID": 1,
                 "system": {
-                    "id": "11653990202001,
+                    "id": "11653990202001",
                     "systemName": "GRAEA HYPUE UT-D B17-5",
                     "edsmID": 85627553
                 },
@@ -18817,7 +18817,7 @@
                 "longitude": -84.9641,
                 "frontierID": 1,
                 "system": {
-                    "id": "11653990202001,
+                    "id": "11653990202001",
                     "systemName": "GRAEA HYPUE UT-D B17-5",
                     "edsmID": 85627553
                 },
@@ -18835,7 +18835,7 @@
                 "longitude": -94.2089,
                 "frontierID": 2,
                 "system": {
-                    "id": "11653990202001,
+                    "id": "11653990202001",
                     "systemName": "GRAEA HYPUE UT-D B17-5",
                     "edsmID": 85627553
                 },
@@ -18853,7 +18853,7 @@
                 "longitude": 49.2790,
                 "frontierID": 1,
                 "system": {
-                    "id": "594794170731,
+                    "id": "594794170731",
                     "systemName": "COL 173 SECTOR DX-K D8-17",
                     "edsmID": 49799161
                 },
@@ -18871,7 +18871,7 @@
                 "longitude": -50.0946,
                 "frontierID": 2,
                 "system": {
-                    "id": "594794170731,
+                    "id": "594794170731",
                     "systemName": "COL 173 SECTOR DX-K D8-17",
                     "edsmID": 49799161
                 },
@@ -18889,7 +18889,7 @@
                 "longitude": -122.2400,
                 "frontierID": 1,
                 "system": {
-                    "id": "594794170731,
+                    "id": "594794170731",
                     "systemName": "COL 173 SECTOR DX-K D8-17",
                     "edsmID": 49799161
                 },
@@ -18907,7 +18907,7 @@
                 "longitude": 66.6771,
                 "frontierID": 1,
                 "system": {
-                    "id": "2884472153465,
+                    "id": "2884472153465",
                     "systemName": "COL 173 SECTOR OH-E B27-1",
                     "edsmID": 52300225
                 },
@@ -18925,7 +18925,7 @@
                 "longitude": -152.9660,
                 "frontierID": 2,
                 "system": {
-                    "id": "2884472153465,
+                    "id": "2884472153465",
                     "systemName": "COL 173 SECTOR OH-E B27-1",
                     "edsmID": 52300225
                 },
@@ -18943,7 +18943,7 @@
                 "longitude": -74.0777,
                 "frontierID": 1,
                 "system": {
-                    "id": "2285090083514,
+                    "id": "2285090083514",
                     "systemName": "COL 173 SECTOR AW-C C13-8",
                     "edsmID": 90370243
                 },
@@ -18961,7 +18961,7 @@
                 "longitude": -61.8844,
                 "frontierID": 2,
                 "system": {
-                    "id": "2285090083514,
+                    "id": "2285090083514",
                     "systemName": "COL 173 SECTOR AW-C C13-8",
                     "edsmID": 90370243
                 },
@@ -18979,7 +18979,7 @@
                 "longitude": -148.4736,
                 "frontierID": 3,
                 "system": {
-                    "id": "2285090083514,
+                    "id": "2285090083514",
                     "systemName": "COL 173 SECTOR AW-C C13-8",
                     "edsmID": 90370243
                 },
@@ -18997,7 +18997,7 @@
                 "longitude": -126.4616,
                 "frontierID": 1,
                 "system": {
-                    "id": "1385152039275,
+                    "id": "1385152039275",
                     "systemName": "NGC 2516 SECTOR EL-Y D40",
                     "edsmID": 64439935
                 },
@@ -19015,7 +19015,7 @@
                 "longitude": 72.8245,
                 "frontierID": 2,
                 "system": {
-                    "id": "1385152039275,
+                    "id": "1385152039275",
                     "systemName": "NGC 2516 SECTOR EL-Y D40",
                     "edsmID": 64439935
                 },
@@ -19033,7 +19033,7 @@
                 "longitude": 3.5693,
                 "frontierID": 3,
                 "system": {
-                    "id": "1385152039275,
+                    "id": "1385152039275",
                     "systemName": "NGC 2516 SECTOR EL-Y D40",
                     "edsmID": 64439935
                 },
@@ -19051,7 +19051,7 @@
                 "longitude": 57.8250,
                 "frontierID": 1,
                 "system": {
-                    "id": "16078075733385,
+                    "id": "16078075733385",
                     "systemName": "VELA DARK REGION IM-U B3-7",
                     "edsmID": 21057991
                 },
@@ -19069,7 +19069,7 @@
                 "longitude": 72.9146,
                 "frontierID": 2,
                 "system": {
-                    "id": "16078075733385,
+                    "id": "16078075733385",
                     "systemName": "VELA DARK REGION IM-U B3-7",
                     "edsmID": 21057991
                 },
@@ -19087,7 +19087,7 @@
                 "longitude": -142.0697,
                 "frontierID": 3,
                 "system": {
-                    "id": "16078075733385,
+                    "id": "16078075733385",
                     "systemName": "VELA DARK REGION IM-U B3-7",
                     "edsmID": 21057991
                 },
@@ -19105,7 +19105,7 @@
                 "longitude": -72.0028,
                 "frontierID": 1,
                 "system": {
-                    "id": "16078075733385,
+                    "id": "16078075733385",
                     "systemName": "VELA DARK REGION IM-U B3-7",
                     "edsmID": 21057991
                 },
@@ -19123,7 +19123,7 @@
                 "longitude": 53.8445,
                 "frontierID": 1,
                 "system": {
-                    "id": "2883398608241,
+                    "id": "2883398608241",
                     "systemName": "COL 173 SECTOR AQ-G B26-1",
                     "edsmID": 90370379
                 },
@@ -19141,7 +19141,7 @@
                 "longitude": 126.4123,
                 "frontierID": 2,
                 "system": {
-                    "id": "2883398608241,
+                    "id": "2883398608241",
                     "systemName": "COL 173 SECTOR AQ-G B26-1",
                     "edsmID": 90370379
                 },
@@ -19159,7 +19159,7 @@
                 "longitude": 138.7322,
                 "frontierID": 1,
                 "system": {
-                    "id": "684912092425,
+                    "id": "684912092425",
                     "systemName": "COL 173 SECTOR GE-D B14-0",
                     "edsmID": 52040413
                 },
@@ -19177,7 +19177,7 @@
                 "longitude": -137.2543,
                 "frontierID": 2,
                 "system": {
-                    "id": "684912092425,
+                    "id": "684912092425",
                     "systemName": "COL 173 SECTOR GE-D B14-0",
                     "edsmID": 52040413
                 },
@@ -19195,7 +19195,7 @@
                 "longitude": 23.9676,
                 "frontierID": 3,
                 "system": {
-                    "id": "684912092425,
+                    "id": "684912092425",
                     "systemName": "COL 173 SECTOR GE-D B14-0",
                     "edsmID": 52040413
                 },
@@ -19213,7 +19213,7 @@
                 "longitude": 117.1625,
                 "frontierID": 1,
                 "system": {
-                    "id": "684912092425,
+                    "id": "684912092425",
                     "systemName": "COL 173 SECTOR GE-D B14-0",
                     "edsmID": 52040413
                 },
@@ -19231,7 +19231,7 @@
                 "longitude": -63.8444,
                 "frontierID": 2,
                 "system": {
-                    "id": "684912092425,
+                    "id": "684912092425",
                     "systemName": "COL 173 SECTOR GE-D B14-0",
                     "edsmID": 52040413
                 },
@@ -19249,7 +19249,7 @@
                 "longitude": -46.3096,
                 "frontierID": 1,
                 "system": {
-                    "id": "1419444685147,
+                    "id": "1419444685147",
                     "systemName": "COL 173 SECTOR UP-O D6-41",
                     "edsmID": 22683380
                 },
@@ -19267,7 +19267,7 @@
                 "longitude": 44.2324,
                 "frontierID": 2,
                 "system": {
-                    "id": "1419444685147,
+                    "id": "1419444685147",
                     "systemName": "COL 173 SECTOR UP-O D6-41",
                     "edsmID": 22683380
                 },
@@ -19285,7 +19285,7 @@
                 "longitude": -111.8923,
                 "frontierID": 1,
                 "system": {
-                    "id": "1419444685147,
+                    "id": "1419444685147",
                     "systemName": "COL 173 SECTOR UP-O D6-41",
                     "edsmID": 22683380
                 },
@@ -19303,7 +19303,7 @@
                 "longitude": 145.8016,
                 "frontierID": 1,
                 "system": {
-                    "id": "2884203783537,
+                    "id": "2884203783537",
                     "systemName": "COL 173 SECTOR HG-G B26-1",
                     "edsmID": 9970726
                 },
@@ -19321,7 +19321,7 @@
                 "longitude": 40.7128,
                 "frontierID": 2,
                 "system": {
-                    "id": "2884203783537,
+                    "id": "2884203783537",
                     "systemName": "COL 173 SECTOR HG-G B26-1",
                     "edsmID": 9970726
                 },
@@ -19339,7 +19339,7 @@
                 "longitude": -38.3461,
                 "frontierID": 1,
                 "system": {
-                    "id": "7288961312161,
+                    "id": "7288961312161",
                     "systemName": "COL 173 SECTOR AC-W B31-3",
                     "edsmID": 90375635
                 },
@@ -19357,7 +19357,7 @@
                 "longitude": -148.3605,
                 "frontierID": 2,
                 "system": {
-                    "id": "7288961312161,
+                    "id": "7288961312161",
                     "systemName": "COL 173 SECTOR AC-W B31-3",
                     "edsmID": 90375635
                 },
@@ -19375,7 +19375,7 @@
                 "longitude": 133.5871,
                 "frontierID": 1,
                 "system": {
-                    "id": "1660080294259,
+                    "id": "1660080294259",
                     "systemName": "COL 173 SECTOR NI-J D9-48",
                     "edsmID": 90375868
                 },
@@ -19393,7 +19393,7 @@
                 "longitude": 54.1744,
                 "frontierID": 2,
                 "system": {
-                    "id": "1660080294259,
+                    "id": "1660080294259",
                     "systemName": "COL 173 SECTOR NI-J D9-48",
                     "edsmID": 90375868
                 },
@@ -19411,7 +19411,7 @@
                 "longitude": -46.5711,
                 "frontierID": 1,
                 "system": {
-                    "id": "4209034466018,
+                    "id": "4209034466018",
                     "systemName": "COL 173 SECTOR VC-W C17-15",
                     "edsmID": 90376257
                 },
@@ -19429,7 +19429,7 @@
                 "longitude": 37.3383,
                 "frontierID": 2,
                 "system": {
-                    "id": "4209034466018,
+                    "id": "4209034466018",
                     "systemName": "COL 173 SECTOR VC-W C17-15",
                     "edsmID": 90376257
                 },
@@ -19447,7 +19447,7 @@
                 "longitude": -42.6376,
                 "frontierID": 3,
                 "system": {
-                    "id": "4209034466018,
+                    "id": "4209034466018",
                     "systemName": "COL 173 SECTOR VC-W C17-15",
                     "edsmID": 90376257
                 },
@@ -19465,7 +19465,7 @@
                 "longitude": -97.3760,
                 "frontierID": 1,
                 "system": {
-                    "id": "2886084011425,
+                    "id": "2886084011425",
                     "systemName": "COL 173 SECTOR CC-Z B31-1",
                     "edsmID": 22425534
                 },
@@ -19483,7 +19483,7 @@
                 "longitude": 59.7547,
                 "frontierID": 2,
                 "system": {
-                    "id": "2886084011425,
+                    "id": "2886084011425",
                     "systemName": "COL 173 SECTOR CC-Z B31-1",
                     "edsmID": 22425534
                 },
@@ -19501,7 +19501,7 @@
                 "longitude": -106.3269,
                 "frontierID": 3,
                 "system": {
-                    "id": "2886084011425,
+                    "id": "2886084011425",
                     "systemName": "COL 173 SECTOR CC-Z B31-1",
                     "edsmID": 22425534
                 },
@@ -19519,7 +19519,7 @@
                 "longitude": 135.2118,
                 "frontierID": 1,
                 "system": {
-                    "id": "13880394917265,
+                    "id": "13880394917265",
                     "systemName": "COL 173 SECTOR TK-C B30-6",
                     "edsmID": 19073102
                 },
@@ -19537,7 +19537,7 @@
                 "longitude": -4.0969,
                 "frontierID": 2,
                 "system": {
-                    "id": "13880394917265,
+                    "id": "13880394917265",
                     "systemName": "COL 173 SECTOR TK-C B30-6",
                     "edsmID": 19073102
                 },
@@ -19555,7 +19555,7 @@
                 "longitude": -126.3214,
                 "frontierID": 3,
                 "system": {
-                    "id": "13880394917265,
+                    "id": "13880394917265",
                     "systemName": "COL 173 SECTOR TK-C B30-6",
                     "edsmID": 19073102
                 },
@@ -19573,7 +19573,7 @@
                 "longitude": 38.9017,
                 "frontierID": 1,
                 "system": {
-                    "id": "7282788476313,
+                    "id": "7282788476313",
                     "systemName": "COL 173 SECTOR PF-B B31-3",
                     "edsmID": 90377203
                 },
@@ -19591,7 +19591,7 @@
                 "longitude": -69.3824,
                 "frontierID": 2,
                 "system": {
-                    "id": "7282788476313,
+                    "id": "7282788476313",
                     "systemName": "COL 173 SECTOR PF-B B31-3",
                     "edsmID": 90377203
                 },
@@ -19609,7 +19609,7 @@
                 "longitude": -158.6119,
                 "frontierID": 3,
                 "system": {
-                    "id": "7282788476313,
+                    "id": "7282788476313",
                     "systemName": "COL 173 SECTOR PF-B B31-3",
                     "edsmID": 90377203
                 },
@@ -19627,7 +19627,7 @@
                 "longitude": -67.7380,
                 "frontierID": 1,
                 "system": {
-                    "id": "1185376902250,
+                    "id": "1185376902250",
                     "systemName": "BLAE HYPUE ZD-G C12-4",
                     "edsmID": 878504
                 },
@@ -19645,7 +19645,7 @@
                 "longitude": -85.6485,
                 "frontierID": 2,
                 "system": {
-                    "id": "1185376902250,
+                    "id": "1185376902250",
                     "systemName": "BLAE HYPUE ZD-G C12-4",
                     "edsmID": 878504
                 },
@@ -19663,7 +19663,7 @@
                 "longitude": 23.2500,
                 "frontierID": 3,
                 "system": {
-                    "id": "1185376902250,
+                    "id": "1185376902250",
                     "systemName": "BLAE HYPUE ZD-G C12-4",
                     "edsmID": 878504
                 },
@@ -19681,7 +19681,7 @@
                 "longitude": 177.4322,
                 "frontierID": 1,
                 "system": {
-                    "id": "15059908497059,
+                    "id": "15059908497059",
                     "systemName": "GRAEA HYPUE AG-V D3-438",
                     "edsmID": 68286739
                 },
@@ -19699,7 +19699,7 @@
                 "longitude": 177.4493,
                 "frontierID": 2,
                 "system": {
-                    "id": "15059908497059,
+                    "id": "15059908497059",
                     "systemName": "GRAEA HYPUE AG-V D3-438",
                     "edsmID": 68286739
                 },
@@ -19717,7 +19717,7 @@
                 "longitude": -60.0320,
                 "frontierID": 1,
                 "system": {
-                    "id": "15059908497059,
+                    "id": "15059908497059",
                     "systemName": "GRAEA HYPUE AG-V D3-438",
                     "edsmID": 68286739
                 },
@@ -19735,7 +19735,7 @@
                 "longitude": 46.6696,
                 "frontierID": 1,
                 "system": {
-                    "id": "1382920653955,
+                    "id": "1382920653955",
                     "systemName": "PRAI HYPOO SX-B D40",
                     "edsmID": 24717368
                 },
@@ -19753,7 +19753,7 @@
                 "longitude": 48.0716,
                 "frontierID": 2,
                 "system": {
-                    "id": "1382920653955,
+                    "id": "1382920653955",
                     "systemName": "PRAI HYPOO SX-B D40",
                     "edsmID": 24717368
                 },
@@ -19771,7 +19771,7 @@
                 "longitude": -61.3041,
                 "frontierID": 3,
                 "system": {
-                    "id": "1382920653955,
+                    "id": "1382920653955",
                     "systemName": "PRAI HYPOO SX-B D40",
                     "edsmID": 24717368
                 },
@@ -19789,7 +19789,7 @@
                 "longitude": -71.0092,
                 "frontierID": 1,
                 "system": {
-                    "id": "4944714084905,
+                    "id": "4944714084905",
                     "systemName": "PRAI HYPOO IU-Z B4-2",
                     "edsmID": 54673054
                 },
@@ -19807,7 +19807,7 @@
                 "longitude": 119.8630,
                 "frontierID": 2,
                 "system": {
-                    "id": "4944714084905,
+                    "id": "4944714084905",
                     "systemName": "PRAI HYPOO IU-Z B4-2",
                     "edsmID": 54673054
                 },
@@ -19825,7 +19825,7 @@
                 "longitude": -87.1851,
                 "frontierID": 3,
                 "system": {
-                    "id": "4944714084905,
+                    "id": "4944714084905",
                     "systemName": "PRAI HYPOO IU-Z B4-2",
                     "edsmID": 54673054
                 },
@@ -19843,7 +19843,7 @@
                 "longitude": -30.7198,
                 "frontierID": 1,
                 "system": {
-                    "id": "60031427558129,
+                    "id": "60031427558129",
                     "systemName": "GRAEA HYPUE CC-H B28-27",
                     "edsmID": 91950199
                 },
@@ -19861,7 +19861,7 @@
                 "longitude": 105.6536,
                 "frontierID": 2,
                 "system": {
-                    "id": "60031427558129,
+                    "id": "60031427558129",
                     "systemName": "GRAEA HYPUE CC-H B28-27",
                     "edsmID": 91950199
                 },
@@ -19879,7 +19879,7 @@
                 "longitude": -101.6007,
                 "frontierID": 1,
                 "system": {
-                    "id": "60031427558129,
+                    "id": "60031427558129",
                     "systemName": "GRAEA HYPUE CC-H B28-27",
                     "edsmID": 91950199
                 },
@@ -19897,7 +19897,7 @@
                 "longitude": -120.4733,
                 "frontierID": 1,
                 "system": {
-                    "id": "12176802323818,
+                    "id": "12176802323818",
                     "systemName": "GRAEA HYPUE UW-G C12-44",
                     "edsmID": 90371499
                 },
@@ -19915,7 +19915,7 @@
                 "longitude": 46.1478,
                 "frontierID": 2,
                 "system": {
-                    "id": "12176802323818,
+                    "id": "12176802323818",
                     "systemName": "GRAEA HYPUE UW-G C12-44",
                     "edsmID": 90371499
                 },
@@ -19933,7 +19933,7 @@
                 "longitude": -74.9815,
                 "frontierID": 1,
                 "system": {
-                    "id": "12176802323818,
+                    "id": "12176802323818",
                     "systemName": "GRAEA HYPUE UW-G C12-44",
                     "edsmID": 90371499
                 },
@@ -19951,7 +19951,7 @@
                 "longitude": -176.9575,
                 "frontierID": 1,
                 "system": {
-                    "id": "11653184174825,
+                    "id": "11653184174825",
                     "systemName": "GRAEA HYPUE FH-I B27-5",
                     "edsmID": 90386899
                 },
@@ -19969,7 +19969,7 @@
                 "longitude": 46.2937,
                 "frontierID": 1,
                 "system": {
-                    "id": "11653184174825,
+                    "id": "11653184174825",
                     "systemName": "GRAEA HYPUE FH-I B27-5",
                     "edsmID": 90386899
                 },
@@ -19987,7 +19987,7 @@
                 "longitude": 23.5611,
                 "frontierID": 2,
                 "system": {
-                    "id": "11653184174825,
+                    "id": "11653184174825",
                     "systemName": "GRAEA HYPUE FH-I B27-5",
                     "edsmID": 90386899
                 },
@@ -20005,7 +20005,7 @@
                 "longitude": -31.2805,
                 "frontierID": 1,
                 "system": {
-                    "id": "9456844880561,
+                    "id": "9456844880561",
                     "systemName": "GRAEA HYPUE ZM-T B20-4",
                     "edsmID": 55676109
                 },
@@ -20023,7 +20023,7 @@
                 "longitude": -1.5429,
                 "frontierID": 2,
                 "system": {
-                    "id": "9456844880561,
+                    "id": "9456844880561",
                     "systemName": "GRAEA HYPUE ZM-T B20-4",
                     "edsmID": 55676109
                 },
@@ -20041,7 +20041,7 @@
                 "longitude": -71.9883,
                 "frontierID": 1,
                 "system": {
-                    "id": "9456844880561,
+                    "id": "9456844880561",
                     "systemName": "GRAEA HYPUE ZM-T B20-4",
                     "edsmID": 55676109
                 },
@@ -20059,7 +20059,7 @@
                 "longitude": 74.1561,
                 "frontierID": 2,
                 "system": {
-                    "id": "9456844880561,
+                    "id": "9456844880561",
                     "systemName": "GRAEA HYPUE ZM-T B20-4",
                     "edsmID": 55676109
                 },
@@ -20077,7 +20077,7 @@
                 "longitude": -14.6328,
                 "frontierID": 1,
                 "system": {
-                    "id": "9456844880561,
+                    "id": "9456844880561",
                     "systemName": "GRAEA HYPUE ZM-T B20-4",
                     "edsmID": 55676109
                 },
@@ -20095,7 +20095,7 @@
                 "longitude": 125.4035,
                 "frontierID": 2,
                 "system": {
-                    "id": "9456844880561,
+                    "id": "9456844880561",
                     "systemName": "GRAEA HYPUE ZM-T B20-4",
                     "edsmID": 55676109
                 },
@@ -20113,7 +20113,7 @@
                 "longitude": 5.4751,
                 "frontierID": 1,
                 "system": {
-                    "id": "4996252972529,
+                    "id": "4996252972529",
                     "systemName": "SKAUDAI YE-B B58-2",
                     "edsmID": 90374019
                 },
@@ -20131,7 +20131,7 @@
                 "longitude": 147.7450,
                 "frontierID": 1,
                 "system": {
-                    "id": "4996252972529,
+                    "id": "4996252972529",
                     "systemName": "SKAUDAI YE-B B58-2",
                     "edsmID": 90374019
                 },
@@ -20149,7 +20149,7 @@
                 "longitude": 15.6853,
                 "frontierID": 2,
                 "system": {
-                    "id": "4996252972529,
+                    "id": "4996252972529",
                     "systemName": "SKAUDAI YE-B B58-2",
                     "edsmID": 90374019
                 },
@@ -20167,7 +20167,7 @@
                 "longitude": -30.8514,
                 "frontierID": 3,
                 "system": {
-                    "id": "4996252972529,
+                    "id": "4996252972529",
                     "systemName": "SKAUDAI YE-B B58-2",
                     "edsmID": 90374019
                 },
