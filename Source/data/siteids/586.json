@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 586,
+            "system": {
+                "systemName": "GRAEA HYPUE ZM-T B20-4"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE ZM-T B20-4 B 3"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": -18.2031,
+            "longitude": 74.1561,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 388,
+            "system": {
+                "systemName": "COL 173 SECTOR AU-Y B30-0"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR AU-Y B30-0 B 2"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -17.5775,
+            "longitude": -139.9464,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

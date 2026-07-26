@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 429,
+            "system": {
+                "systemName": "GRAEA HYPUE AG-V D3-65"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE AG-V D3-65 8 B"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -45.8525,
+            "longitude": 1.6774,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

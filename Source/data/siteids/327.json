@@ -11,9 +11,9 @@
             "type": {
                 "type": "Gamma"
             },
-            "latitude": 5.201259,
-            "longitude": 117.490105,
-            "verified": false,
+            "latitude": -10.5476,
+            "longitude": 137.0811,
+            "verified": true,
             "discoveredBy": {
                 "cmdrName": "CDWH89"
             },

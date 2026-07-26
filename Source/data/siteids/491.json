@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 491,
+            "system": {
+                "systemName": "GRAEA HYPUE UE-Y D1-58"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE UE-Y D1-58 C 1"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": 4.8552,
+            "longitude": -132.6466,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

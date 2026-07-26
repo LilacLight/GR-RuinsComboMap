@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 542,
+            "system": {
+                "systemName": "COL 173 SECTOR UP-O D6-41"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR UP-O D6-41 11 C"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -39.6669,
+            "longitude": 44.2324,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

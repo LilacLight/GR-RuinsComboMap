@@ -11,9 +11,9 @@
             "type": {
                 "type": "Alpha"
             },
-            "latitude": 50.607838,
-            "longitude": -156.586792,
-            "verified": false,
+            "latitude": 50.6078,
+            "longitude": -156.5868,
+            "verified": true,
             "discoveredBy": {
                 "cmdrName": "_Definzy_"
             },

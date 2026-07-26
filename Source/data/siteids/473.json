@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 473,
+            "system": {
+                "systemName": "GRAEA HYPUE QG-Q C7-17"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE QG-Q C7-17 C 1"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": -43.4049,
+            "longitude": 159.0268,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

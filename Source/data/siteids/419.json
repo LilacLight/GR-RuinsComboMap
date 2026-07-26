@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 419,
+            "system": {
+                "systemName": "GRAEA HYPUE QY-J B12-7"
+            },
+            "body": {
+                "bodyName": "GRAEA HYPUE QY-J B12-7 B 4"
+            },
+            "type": {
+                "type": "Beta"
+            },
+            "latitude": 34.5259,
+            "longitude": 87.7802,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 519,
+            "system": {
+                "systemName": "COL 173 SECTOR DX-K D8-17"
+            },
+            "body": {
+                "bodyName": "COL 173 SECTOR DX-K D8-17 5 A"
+            },
+            "type": {
+                "type": "Alpha"
+            },
+            "latitude": -37.8746,
+            "longitude": 49.2790,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

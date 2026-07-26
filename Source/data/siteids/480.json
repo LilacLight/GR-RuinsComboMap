@@ -1,0 +1,26 @@
+{
+    "data": {
+        "grsite": {
+            "siteID": 480,
+            "system": {
+                "systemName": "DROKOE ML-M B40-0"
+            },
+            "body": {
+                "bodyName": "DROKOE ML-M B40-0 C 1"
+            },
+            "type": {
+                "type": "Gamma"
+            },
+            "latitude": 53.0070,
+            "longitude": -166.7135,
+            "verified": true,
+            "discoveredBy": {
+                "cmdrName": "zzz_Unknown"
+            },
+            "activeGroups": [
+            ],
+            "activeObelisks": [
+            ]
+        }
+    }
+}

@@ -11,9 +11,9 @@
             "type": {
                 "type": "Alpha"
             },
-            "latitude": 17.325712,
-            "longitude": -105.156525,
-            "verified": false,
+            "latitude": 17.3257,
+            "longitude": -105.1565,
+            "verified": true,
             "discoveredBy": {
                 "cmdrName": "Namix"
             },
