@@ -5919,7 +5919,7 @@
                     "groupName": "U"
                 },
                 "obeliskNumber": 37,
-                "broken": false
+                "broken": true
             },
             {
                 "grType": {
@@ -5939,7 +5939,7 @@
                     "groupName": "U"
                 },
                 "obeliskNumber": 39,
-                "broken": true
+                "broken": false
             },
             {
                 "grType": {
