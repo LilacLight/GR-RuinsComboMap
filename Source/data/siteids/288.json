@@ -27,7 +27,7 @@
                 {
                     "activeGroup": {
                         "groupName": "D",
-                        "amount": 15
+                        "amount": 16
                     }
                 },
                 {
@@ -171,7 +171,7 @@
                         },
                         "obeliskNumber": 2,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Technology"
@@ -193,7 +193,7 @@
                         },
                         "obeliskNumber": 5,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Technology"
@@ -235,7 +235,7 @@
                         },
                         "obeliskNumber": 5,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Language"
@@ -257,7 +257,7 @@
                         },
                         "obeliskNumber": 6,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Language"
@@ -279,7 +279,7 @@
                         },
                         "obeliskNumber": 12,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Language"
@@ -301,7 +301,7 @@
                         },
                         "obeliskNumber": 44,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Language"
@@ -367,7 +367,7 @@
                         },
                         "obeliskNumber": 17,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Biology"
@@ -455,7 +455,7 @@
                         },
                         "obeliskNumber": 7,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Culture"
@@ -519,7 +519,7 @@
                         },
                         "obeliskNumber": 5,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Technology"
@@ -561,7 +561,7 @@
                         },
                         "obeliskNumber": 5,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Culture"
@@ -583,7 +583,7 @@
                         },
                         "obeliskNumber": 12,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Culture"
@@ -605,7 +605,7 @@
                         },
                         "obeliskNumber": 2,
                         "broken": false,
-                        "verified": false,
+                        "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "History"

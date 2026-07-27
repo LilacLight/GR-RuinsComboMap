@@ -517,18 +517,18 @@ function prepMapUI(completed) {
 		window.ruins.showAll(!this.checked);
 	});
 
-	$("#edbearing").on('click', function () {
-		var desc = window.currentRuin.ruinTypeName + ' Ruin at ' + [
-			window.currentRuin.systemName,
-			window.currentRuin.bodyName,
-		].join(' | ');
-		var lat = window.currentRuin.coordinates[0];
-		var lon = window.currentRuin.coordinates[1];
-
-		var bearingUrl = 'http://hotdoy.ca/ed/bearing/?lat=' + encodeURIComponent(lat) + '&lon=' + encodeURIComponent(lon) + '&title=' + encodeURIComponent(desc);
-
-		window.open(bearingUrl, '_blank');
-	});
+// 	$("#edbearing").on('click', function () {
+// 		var desc = window.currentRuin.ruinTypeName + ' Ruin at ' + [
+// 			window.currentRuin.systemName,
+// 			window.currentRuin.bodyName,
+// 		].join(' | ');
+// 		var lat = window.currentRuin.coordinates[0];
+// 		var lon = window.currentRuin.coordinates[1];
+// 
+// 		var bearingUrl = 'http://hotdoy.ca/ed/bearing/?lat=' + encodeURIComponent(lat) + '&lon=' + encodeURIComponent(lon) + '&title=' + encodeURIComponent(desc);
+// 
+// 		window.open(bearingUrl, '_blank');
+// 	});
 
 	$("#edsm").on('click', function () {
 		var edsmLink = window.currentRuin.edsmBodyLink;
