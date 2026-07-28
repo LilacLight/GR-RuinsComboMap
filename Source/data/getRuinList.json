@@ -15190,24 +15190,6 @@
                 }
             },
             {
-                "siteID": 313,
-                "latitude": -54.4675,
-                "longitude": 145.7261,
-                "frontierID": 1,
-                "system": {
-                    "id": "882",
-                    "systemName": "COL 173 SECTOR UU-O D6-30",
-                    "edsmID": 10407439
-                },
-                "body": {
-                    "bodyName": "COL 173 SECTOR UU-O D6-30 4 F",
-                    "edsmID": 2672659
-                },
-                "type": {
-                    "type": "Gamma"
-                }
-            },
-            {
                 "siteID": 314,
                 "latitude": -54.4675,
                 "longitude": 145.7261,
