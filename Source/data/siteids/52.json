@@ -615,20 +615,18 @@
                         "grObeliskGroup": {
                             "groupName": "P"
                         },
-                        "obeliskNumber": 11,
+                        "obeliskNumber": 12,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Technology"
                             },
-                            "codexNumber": 2,
+                            "codexNumber": 1,
                             "grPrimaryArtifact": {
                                 "artifactName": "Orb"
                             },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Orb"
-                            }
+                            "grSecondaryArtifact": null
                         }
                     }
                 },
@@ -637,7 +635,7 @@
                         "grObeliskGroup": {
                             "groupName": "P"
                         },
-                        "obeliskNumber": 12,
+                        "obeliskNumber": 13,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {

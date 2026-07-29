@@ -74,6 +74,12 @@
                 },
                 {
                     "activeGroup": {
+                        "groupName": "P",
+                        "amount": 13
+                    }
+                },
+                {
+                    "activeGroup": {
                         "groupName": "Q",
                         "amount": 29
                     }
@@ -102,34 +108,12 @@
                         }
                     }
                 },
-                {
+				{
                     "activeObelisk": {
                         "grObeliskGroup": {
-                            "groupName": "C"
+                            "groupName": "A"
                         },
-                        "obeliskNumber": 2,
-                        "broken": false,
-                        "verified": true,
-                        "grCodexData": {
-                            "grCodexCategory": {
-                                "categoryName": "Culture"
-                            },
-                            "codexNumber": 4,
-                            "grPrimaryArtifact": {
-                                "artifactName": "Totem"
-                            },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Urn"
-                            }
-                        }
-                    }
-                },
-                {
-                    "activeObelisk": {
-                        "grObeliskGroup": {
-                            "groupName": "E"
-                        },
-                        "obeliskNumber": 1,
+                        "obeliskNumber": 15,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -142,6 +126,94 @@
                             },
                             "grSecondaryArtifact": {
                                 "artifactName": "Urn"
+                            }
+                        }
+                    }
+                },
+				{
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "A"
+                        },
+                        "obeliskNumber": 16,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "History"
+                            },
+                            "codexNumber": 4,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Casket"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Tablet"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "C"
+                        },
+                        "obeliskNumber": 7,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Culture"
+                            },
+                            "codexNumber": 5,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Totem"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Tablet"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "C"
+                        },
+                        "obeliskNumber": 8,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Culture"
+                            },
+                            "codexNumber": 2,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Totem"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Totem"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "E"
+                        },
+                        "obeliskNumber": 8,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "History"
+                            },
+                            "codexNumber": 2,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Casket"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Casket"
                             }
                         }
                     }
@@ -173,16 +245,38 @@
                         "grObeliskGroup": {
                             "groupName": "J"
                         },
-                        "obeliskNumber": 1,
+                        "obeliskNumber": 3,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "History"
                             },
-                            "codexNumber": 1,
+                            "codexNumber": 3,
                             "grPrimaryArtifact": {
                                 "artifactName": "Casket"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Urn"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "K"
+                        },
+                        "obeliskNumber": 1,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 1,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
                             },
                             "grSecondaryArtifact": null
                         }
@@ -193,10 +287,21 @@
                         "grObeliskGroup": {
                             "groupName": "K"
                         },
-                        "obeliskNumber": 2,
-                        "broken": true,
+                        "obeliskNumber": 11,
+                        "broken": false,
                         "verified": true,
-                        "grCodexData": null
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "History"
+                            },
+                            "codexNumber": 5,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Casket"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Orb"
+                            }
+                        }
                     }
                 },
                 {
@@ -204,19 +309,19 @@
                         "grObeliskGroup": {
                             "groupName": "L"
                         },
-                        "obeliskNumber": 1,
+                        "obeliskNumber": 8,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "History"
                             },
-                            "codexNumber": 3,
+                            "codexNumber": 2,
                             "grPrimaryArtifact": {
                                 "artifactName": "Casket"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Urn"
+                                "artifactName": "Casket"
                             }
                         }
                     }
@@ -226,19 +331,61 @@
                         "grObeliskGroup": {
                             "groupName": "M"
                         },
-                        "obeliskNumber": 3,
+                        "obeliskNumber": 9,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Language"
                             },
-                            "codexNumber": 3,
+                            "codexNumber": 1,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Tablet"
+                            },
+                            "grSecondaryArtifact": null
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "M"
+                        },
+                        "obeliskNumber": 21,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Language"
+                            },
+                            "codexNumber": 5,
                             "grPrimaryArtifact": {
                                 "artifactName": "Tablet"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Casket"
+                                "artifactName": "Orb"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "M"
+                        },
+                        "obeliskNumber": 24,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Language"
+                            },
+                            "codexNumber": 7,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Tablet"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
                             }
                         }
                     }
@@ -248,19 +395,63 @@
                         "grObeliskGroup": {
                             "groupName": "N"
                         },
-                        "obeliskNumber": 1,
+                        "obeliskNumber": 8,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "History"
                             },
-                            "codexNumber": 3,
+                            "codexNumber": 2,
                             "grPrimaryArtifact": {
                                 "artifactName": "Casket"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Urn"
+                                "artifactName": "Casket"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "P"
+                        },
+                        "obeliskNumber": 2,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 6,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Totem"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "P"
+                        },
+                        "obeliskNumber": 11,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 2,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Orb"
                             }
                         }
                     }
@@ -270,19 +461,63 @@
                         "grObeliskGroup": {
                             "groupName": "Q"
                         },
-                        "obeliskNumber": 3,
+                        "obeliskNumber": 6,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Language"
                             },
-                            "codexNumber": 3,
+                            "codexNumber": 5,
                             "grPrimaryArtifact": {
                                 "artifactName": "Tablet"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Casket"
+                                "artifactName": "Orb"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "Q"
+                        },
+                        "obeliskNumber": 7,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Language"
+                            },
+                            "codexNumber": 6,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Tablet"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Tablet"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "Q"
+                        },
+                        "obeliskNumber": 25,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Language"
+                            },
+                            "codexNumber": 5,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Tablet"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Orb"
                             }
                         }
                     }

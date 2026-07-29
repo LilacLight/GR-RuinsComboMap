@@ -232,12 +232,12 @@
                             "grCodexCategory": {
                                 "categoryName": "Language"
                             },
-                            "codexNumber": 13,
+                            "codexNumber": 14,
                             "grPrimaryArtifact": {
                                 "artifactName": "Tablet"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Totem"
+                                "artifactName": "Relic"
                             }
                         }
                     }

@@ -277,19 +277,19 @@
                         "grObeliskGroup": {
                             "groupName": "O"
                         },
-                        "obeliskNumber": 5,
+                        "obeliskNumber": 4,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Technology"
                             },
-                            "codexNumber": 5,
+                            "codexNumber": 4,
                             "grPrimaryArtifact": {
                                 "artifactName": "Orb"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Tablet"
+                                "artifactName": "Urn"
                             }
                         }
                     }

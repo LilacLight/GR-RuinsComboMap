@@ -144,15 +144,16 @@
                             "grCodexCategory": {
                                 "categoryName": "Biology"
                             },
-                            "codexNumber": 13,
+                            "codexNumber": 19,
                             "grPrimaryArtifact": {
                                 "artifactName": "Urn"
                             },
-                            "grSecondaryArtifact": null
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
+                            }
                         }
                     }
                 },
-                {
                     "activeObelisk": {
                         "grObeliskGroup": {
                             "groupName": "B"

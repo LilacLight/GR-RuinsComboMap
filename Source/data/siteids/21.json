@@ -56,6 +56,12 @@
                 },
                 {
                     "activeGroup": {
+                        "groupName": "S",
+                        "amount": 0
+                    }
+                },
+                {
+                    "activeGroup": {
                         "groupName": "U",
                         "amount": 57
                     }
@@ -230,8 +236,28 @@
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
-                            "grSecondaryArtifact": {
+                            "grSecondaryArtifact": null
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "S"
+                        },
+                        "obeliskNumber": 2,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 12,
+                            "grPrimaryArtifact": {
                                 "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
                             }
                         }
                     }

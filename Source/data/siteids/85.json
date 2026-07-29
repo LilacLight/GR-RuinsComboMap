@@ -62,6 +62,12 @@
                 },
                 {
                     "activeGroup": {
+                        "groupName": "J",
+                        "amount": 9
+                    }
+                },
+                {
+                    "activeGroup": {
                         "groupName": "L",
                         "amount": 14
                     }
@@ -393,6 +399,28 @@
                             "codexNumber": 17,
                             "grPrimaryArtifact": {
                                 "artifactName": "Urn"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Orb"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "J"
+                        },
+                        "obeliskNumber": 7,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "History"
+                            },
+                            "codexNumber": 21,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Casket"
                             },
                             "grSecondaryArtifact": {
                                 "artifactName": "Orb"

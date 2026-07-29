@@ -189,8 +189,19 @@
                         },
                         "obeliskNumber": 18,
                         "broken": false,
-                        "verified": null,
-                        "grCodexData": null
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 11,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Tablet"
+                            }
+                        }
                     }
                 },
                 {

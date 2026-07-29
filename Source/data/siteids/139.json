@@ -552,20 +552,9 @@
                             "groupName": "P"
                         },
                         "obeliskNumber": 19,
-                        "broken": false,
+                        "broken": true,
                         "verified": true,
-                        "grCodexData": {
-                            "grCodexCategory": {
-                                "categoryName": "Culture"
-                            },
-                            "codexNumber": 17,
-                            "grPrimaryArtifact": {
-                                "artifactName": "Totem"
-                            },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Urn"
-                            }
-                        }
+                        "grCodexData": null
                     }
                 }
             ]

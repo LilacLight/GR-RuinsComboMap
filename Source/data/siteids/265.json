@@ -53,6 +53,12 @@
                         "groupName": "O",
                         "amount": 3
                     }
+                },
+                {
+                    "activeGroup": {
+                        "groupName": "S",
+                        "amount": 3
+                    }
                 }
             ],
             "activeObelisks": [
@@ -154,12 +160,12 @@
                             "grCodexCategory": {
                                 "categoryName": "Language"
                             },
-                            "codexNumber": 14,
+                            "codexNumber": 10,
                             "grPrimaryArtifact": {
                                 "artifactName": "Tablet"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Relic"
+                                "artifactName": "Casket"
                             }
                         }
                     }
@@ -171,14 +177,47 @@
                         },
                         "obeliskNumber": 22,
                         "broken": false,
-                        "verified": null,
-                        "grCodexData": null
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Language"
+                            },
+                            "codexNumber": 9,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Tablet"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Tablet"
+                            }
+                        }
                     }
                 },
                 {
                     "activeObelisk": {
                         "grObeliskGroup": {
                             "groupName": "O"
+                        },
+                        "obeliskNumber": 1,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 13,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "S"
                         },
                         "obeliskNumber": 1,
                         "broken": false,

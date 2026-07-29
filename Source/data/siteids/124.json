@@ -128,11 +128,13 @@
                             "grCodexCategory": {
                                 "categoryName": "Biology"
                             },
-                            "codexNumber": 13,
+                            "codexNumber": 19,
                             "grPrimaryArtifact": {
                                 "artifactName": "Urn"
                             },
-                            "grSecondaryArtifact": null
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
+                            }
                         }
                     }
                 },
@@ -272,20 +274,9 @@
                             "groupName": "P"
                         },
                         "obeliskNumber": 2,
-                        "broken": false,
-                        "verified": null,
-                        "grCodexData": {
-                            "grCodexCategory": {
-                                "categoryName": "Language"
-                            },
-                            "codexNumber": 18,
-                            "grPrimaryArtifact": {
-                                "artifactName": "Tablet"
-                            },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Urn"
-                            }
-                        }
+                        "broken": true,
+                        "verified": true,
+                        "grCodexData": null
                     }
                 },
                 {

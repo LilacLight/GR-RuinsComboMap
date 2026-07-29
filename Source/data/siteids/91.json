@@ -41,6 +41,12 @@
                         "groupName": "O",
                         "amount": 3
                     }
+                },
+                {
+                    "activeGroup": {
+                        "groupName": "S",
+                        "amount": 3
+                    }
                 }
             ],
             "activeObelisks": [
@@ -144,7 +150,29 @@
                             "grCodexCategory": {
                                 "categoryName": "Technology"
                             },
-                            "codexNumber": 12,
+                            "codexNumber": 13,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "S"
+                        },
+                        "obeliskNumber": 3,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 13,
                             "grPrimaryArtifact": {
                                 "artifactName": "Orb"
                             },

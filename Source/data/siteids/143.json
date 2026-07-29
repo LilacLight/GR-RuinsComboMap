@@ -100,9 +100,7 @@
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Orb"
-                            }
+                            "grSecondaryArtifact": null
                         }
                     }
                 },
@@ -188,9 +186,7 @@
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Orb"
-                            }
+                            "grSecondaryArtifact": null
                         }
                     }
                 },
@@ -256,6 +252,28 @@
                             },
                             "grSecondaryArtifact": {
                                 "artifactName": "Orb"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "U"
+                        },
+                        "obeliskNumber": 54,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 19,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Casket"
                             }
                         }
                     }

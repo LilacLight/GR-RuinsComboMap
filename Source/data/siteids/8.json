@@ -32,7 +32,7 @@
                 },
                 {
                     "activeGroup": {
-                        "groupName": "H",
+                        "groupName": "I",
                         "amount": 10
                     }
                 },
@@ -123,21 +123,21 @@
                 {
                     "activeObelisk": {
                         "grObeliskGroup": {
-                            "groupName": "H"
+                            "groupName": "I"
                         },
                         "obeliskNumber": 8,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
-                                "categoryName": "Technology"
+                                "categoryName": "Culture"
                             },
-                            "codexNumber": 9,
+                            "codexNumber": 8,
                             "grPrimaryArtifact": {
-                                "artifactName": "Orb"
+                                "artifactName": "Totem"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Casket"
+                                "artifactName": "Totem"
                             }
                         }
                     }
@@ -202,9 +202,7 @@
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Orb"
-                            }
+                            "grSecondaryArtifact": null
                         }
                     }
                 },

@@ -32,14 +32,14 @@
                 },
                 {
                     "activeGroup": {
-                        "groupName": "E",
-                        "amount": 27
+                        "groupName": "D",
+                        "amount": 12
                     }
                 },
                 {
                     "activeGroup": {
-                        "groupName": "H",
-                        "amount": 10
+                        "groupName": "E",
+                        "amount": 27
                     }
                 },
                 {
@@ -112,6 +112,28 @@
                             },
                             "grSecondaryArtifact": {
                                 "artifactName": "Casket"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "D"
+                        },
+                        "obeliskNumber": 1,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "History"
+                            },
+                            "codexNumber": 12,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Casket"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Orb"
                             }
                         }
                     }

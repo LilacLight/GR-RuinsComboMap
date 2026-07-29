@@ -85,18 +85,20 @@
                         "grObeliskGroup": {
                             "groupName": "B"
                         },
-                        "obeliskNumber": 2,
+                        "obeliskNumber": 3,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Biology"
                             },
-                            "codexNumber": 13,
+                            "codexNumber": 19,
                             "grPrimaryArtifact": {
                                 "artifactName": "Urn"
                             },
-                            "grSecondaryArtifact": null
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
+                            }
                         }
                     }
                 },

@@ -196,7 +196,7 @@
                             "grCodexCategory": {
                                 "categoryName": "Technology"
                             },
-                            "codexNumber": 12,
+                            "codexNumber": 13,
                             "grPrimaryArtifact": {
                                 "artifactName": "Orb"
                             },
@@ -246,6 +246,28 @@
                             },
                             "grSecondaryArtifact": {
                                 "artifactName": "Tablet"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "S"
+                        },
+                        "obeliskNumber": 2,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 12,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
                             }
                         }
                     }

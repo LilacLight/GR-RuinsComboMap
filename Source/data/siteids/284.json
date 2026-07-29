@@ -243,8 +243,19 @@
                         },
                         "obeliskNumber": 7,
                         "broken": false,
-                        "verified": null,
-                        "grCodexData": null
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "History"
+                            },
+                            "codexNumber": 14,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Casket"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
+                            }
+                        }
                     }
                 },
                 {
