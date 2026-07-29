@@ -130,6 +130,7 @@
                         }
                     }
                 },
+                {
                     "activeObelisk": {
                         "grObeliskGroup": {
                             "groupName": "G"
