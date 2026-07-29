@@ -90,7 +90,7 @@
                         }
                     }
                 },
-				{
+                {
                     "activeObelisk": {
                         "grObeliskGroup": {
                             "groupName": "B"
@@ -112,7 +112,6 @@
                         }
                     }
                 },
-                
                 {
                     "activeObelisk": {
                         "grObeliskGroup": {
