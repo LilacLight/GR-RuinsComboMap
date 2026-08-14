@@ -26,6 +26,12 @@
                 },
                 {
                     "activeGroup": {
+                        "groupName": "B",
+                        "amount": 21
+                    }
+                },
+                {
+                    "activeGroup": {
                         "groupName": "C",
                         "amount": 14
                     }
@@ -38,20 +44,8 @@
                 },
                 {
                     "activeGroup": {
-                        "groupName": "E",
-                        "amount": 10
-                    }
-                },
-                {
-                    "activeGroup": {
                         "groupName": "F",
                         "amount": 22
-                    }
-                },
-                {
-                    "activeGroup": {
-                        "groupName": "G",
-                        "amount": 4
                     }
                 },
                 {

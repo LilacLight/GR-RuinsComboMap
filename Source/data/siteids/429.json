@@ -67,7 +67,7 @@
                         "grObeliskGroup": {
                             "groupName": "A"
                         },
-                        "obeliskNumber": "8",
+                        "obeliskNumber": 8,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -89,7 +89,7 @@
                         "grObeliskGroup": {
                             "groupName": "B"
                         },
-                        "obeliskNumber": "6",
+                        "obeliskNumber": 6,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -111,7 +111,7 @@
                         "grObeliskGroup": {
                             "groupName": "I"
                         },
-                        "obeliskNumber": "6",
+                        "obeliskNumber": 6,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -133,7 +133,7 @@
                         "grObeliskGroup": {
                             "groupName": "K"
                         },
-                        "obeliskNumber": "3",
+                        "obeliskNumber": 3,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -155,7 +155,7 @@
                         "grObeliskGroup": {
                             "groupName": "K"
                         },
-                        "obeliskNumber": "6",
+                        "obeliskNumber": 6,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -177,7 +177,7 @@
                         "grObeliskGroup": {
                             "groupName": "L"
                         },
-                        "obeliskNumber": "6",
+                        "obeliskNumber": 6,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -199,7 +199,7 @@
                         "grObeliskGroup": {
                             "groupName": "S"
                         },
-                        "obeliskNumber": "3",
+                        "obeliskNumber": 3,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -221,7 +221,7 @@
                         "grObeliskGroup": {
                             "groupName": "U"
                         },
-                        "obeliskNumber": "48",
+                        "obeliskNumber": 48,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -243,7 +243,7 @@
                         "grObeliskGroup": {
                             "groupName": "U"
                         },
-                        "obeliskNumber": "52",
+                        "obeliskNumber": 52,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {

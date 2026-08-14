@@ -56,6 +56,12 @@
                 },
                 {
                     "activeGroup": {
+                        "groupName": "K",
+                        "amount": 22
+                    }
+                },
+                {
+                    "activeGroup": {
                         "groupName": "L",
                         "amount": 10
                     }

@@ -50,6 +50,12 @@
                 },
                 {
                     "activeGroup": {
+                        "groupName": "L",
+                        "amount": 10
+                    }
+                },
+                {
+                    "activeGroup": {
                         "groupName": "M",
                         "amount": 24
                     }
