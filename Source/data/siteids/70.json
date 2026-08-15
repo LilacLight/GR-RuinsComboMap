@@ -274,6 +274,26 @@
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 7,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": null
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
+                            "groupName": "U"
+                        },
+                        "obeliskNumber": 21,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
                                 "categoryName": "Biology"
                             },
                             "codexNumber": 12,
@@ -291,7 +311,7 @@
                         "grObeliskGroup": {
                             "groupName": "U"
                         },
-                        "obeliskNumber": 50,
+                        "obeliskNumber": 51,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
