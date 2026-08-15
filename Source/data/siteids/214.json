@@ -313,8 +313,19 @@
                         },
                         "obeliskNumber": 11,
                         "broken": false,
-                        "verified": null,
-                        "grCodexData": null
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Biology"
+                            },
+                            "codexNumber": 2,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Urn"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Urn"
+                            }
+                        }
                     }
                 },
                 {

@@ -106,7 +106,7 @@
                             "grCodexCategory": {
                                 "categoryName": "Technology"
                             },
-                            "codexNumber": 12,
+                            "codexNumber": 13,
                             "grPrimaryArtifact": {
                                 "artifactName": "Orb"
                             },
@@ -121,7 +121,7 @@
                         "grObeliskGroup": {
                             "groupName": "T"
                         },
-                        "obeliskNumber": 1,
+                        "obeliskNumber": 13,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
@@ -143,7 +143,7 @@
                         "grObeliskGroup": {
                             "groupName": "T"
                         },
-                        "obeliskNumber": 6,
+                        "obeliskNumber": 18,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {

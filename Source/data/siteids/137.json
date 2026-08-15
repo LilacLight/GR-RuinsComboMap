@@ -313,8 +313,19 @@
                         },
                         "obeliskNumber": 11,
                         "broken": false,
-                        "verified": null,
-                        "grCodexData": null
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Biology"
+                            },
+                            "codexNumber": 2,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Urn"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Urn"
+                            }
+                        }
                     }
                 },
                 {
@@ -322,19 +333,19 @@
                         "grObeliskGroup": {
                             "groupName": "F"
                         },
-                        "obeliskNumber": 18,
+                        "obeliskNumber": 19,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Biology"
                             },
-                            "codexNumber": 6,
+                            "codexNumber": 5,
                             "grPrimaryArtifact": {
                                 "artifactName": "Urn"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Totem"
+                                "artifactName": "Orb"
                             }
                         }
                     }

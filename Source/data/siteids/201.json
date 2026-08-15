@@ -106,9 +106,7 @@
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Orb"
-                            }
+                            "grSecondaryArtifact": null
                         }
                     }
                 },
@@ -212,7 +210,7 @@
                             "grCodexCategory": {
                                 "categoryName": "Technology"
                             },
-                            "codexNumber": 12,
+                            "codexNumber": 13,
                             "grPrimaryArtifact": {
                                 "artifactName": "Orb"
                             },

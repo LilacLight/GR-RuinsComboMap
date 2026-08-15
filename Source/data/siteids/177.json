@@ -261,19 +261,19 @@
                         "grObeliskGroup": {
                             "groupName": "F"
                         },
-                        "obeliskNumber": 21,
+                        "obeliskNumber": 22,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Biology"
                             },
-                            "codexNumber": 6,
+                            "codexNumber": 5,
                             "grPrimaryArtifact": {
                                 "artifactName": "Urn"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Totem"
+                                "artifactName": "Orb"
                             }
                         }
                     }

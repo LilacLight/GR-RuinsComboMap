@@ -261,6 +261,28 @@
                 {
                     "activeObelisk": {
                         "grObeliskGroup": {
+                            "groupName": "H"
+                        },
+                        "obeliskNumber": 55,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Language"
+                            },
+                            "codexNumber": 16,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Tablet"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Tablet"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
                             "groupName": "J"
                         },
                         "obeliskNumber": 9,

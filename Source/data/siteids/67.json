@@ -293,14 +293,14 @@
                         "grObeliskGroup": {
                             "groupName": "T"
                         },
-                        "obeliskNumber": 14,
+                        "obeliskNumber": 4,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "History"
                             },
-                            "codexNumber": 15,
+                            "codexNumber": 13,
                             "grPrimaryArtifact": {
                                 "artifactName": "Casket"
                             },
@@ -315,14 +315,14 @@
                         "grObeliskGroup": {
                             "groupName": "T"
                         },
-                        "obeliskNumber": 4,
+                        "obeliskNumber": 14,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "History"
                             },
-                            "codexNumber": 13,
+                            "codexNumber": 15,
                             "grPrimaryArtifact": {
                                 "artifactName": "Casket"
                             },

@@ -233,10 +233,21 @@
                         "grObeliskGroup": {
                             "groupName": "L"
                         },
-                        "obeliskNumber": 6,
-                        "broken": true,
+                        "obeliskNumber": 8,
+                        "broken": false,
                         "verified": true,
-                        "grCodexData": null
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Technology"
+                            },
+                            "codexNumber": 18,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Orb"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Tablet"
+                            }
+                        }
                     }
                 },
                 {

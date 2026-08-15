@@ -165,19 +165,19 @@
                         "grObeliskGroup": {
                             "groupName": "N"
                         },
-                        "obeliskNumber": 21,
+                        "obeliskNumber": 20,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Language"
                             },
-                            "codexNumber": 12,
+                            "codexNumber": 13,
                             "grPrimaryArtifact": {
                                 "artifactName": "Tablet"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Orb"
+                                "artifactName": "Totem"
                             }
                         }
                     }

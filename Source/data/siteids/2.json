@@ -184,20 +184,9 @@
                             "groupName": "K"
                         },
                         "obeliskNumber": 27,
-                        "broken": false,
+                        "broken": true,
                         "verified": true,
-                        "grCodexData": {
-                            "grCodexCategory": {
-                                "categoryName": "Culture"
-                            },
-                            "codexNumber": 9,
-                            "grPrimaryArtifact": {
-                                "artifactName": "Totem"
-                            },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Casket"
-                            }
-                        }
+                        "grCodexData": null
                     }
                 },
                 {

@@ -125,28 +125,6 @@
                         "grObeliskGroup": {
                             "groupName": "A"
                         },
-                        "obeliskNumber": 8,
-                        "broken": false,
-                        "verified": true,
-                        "grCodexData": {
-                            "grCodexCategory": {
-                                "categoryName": "Biology"
-                            },
-                            "codexNumber": 14,
-                            "grPrimaryArtifact": {
-                                "artifactName": "Urn"
-                            },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Urn"
-                            }
-                        }
-                    }
-                },
-                {
-                    "activeObelisk": {
-                        "grObeliskGroup": {
-                            "groupName": "A"
-                        },
                         "obeliskNumber": 17,
                         "broken": false,
                         "verified": true,
@@ -161,26 +139,6 @@
                             "grSecondaryArtifact": {
                                 "artifactName": "Urn"
                             }
-                        }
-                    }
-                },
-                {
-                    "activeObelisk": {
-                        "grObeliskGroup": {
-                            "groupName": "A"
-                        },
-                        "obeliskNumber": 18,
-                        "broken": false,
-                        "verified": true,
-                        "grCodexData": {
-                            "grCodexCategory": {
-                                "categoryName": "Biology"
-                            },
-                            "codexNumber": 13,
-                            "grPrimaryArtifact": {
-                                "artifactName": "Urn"
-                            },
-                            "grSecondaryArtifact": null
                         }
                     }
                 },

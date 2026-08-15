@@ -55,19 +55,19 @@
                         "grObeliskGroup": {
                             "groupName": "A"
                         },
-                        "obeliskNumber": 1,
+                        "obeliskNumber": 2,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "History"
                             },
-                            "codexNumber": 16,
+                            "codexNumber": 15,
                             "grPrimaryArtifact": {
                                 "artifactName": "Casket"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Relic"
+                                "artifactName": "Totem"
                             }
                         }
                     }

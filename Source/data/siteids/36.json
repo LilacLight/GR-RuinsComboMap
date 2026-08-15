@@ -255,19 +255,19 @@
                         "grObeliskGroup": {
                             "groupName": "M"
                         },
-                        "obeliskNumber": 2,
+                        "obeliskNumber": 11,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Culture"
                             },
-                            "codexNumber": 20,
+                            "codexNumber": 18,
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Relic"
+                                "artifactName": "Tablet"
                             }
                         }
                     }
@@ -277,19 +277,19 @@
                         "grObeliskGroup": {
                             "groupName": "M"
                         },
-                        "obeliskNumber": 3,
+                        "obeliskNumber": 12,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Culture"
                             },
-                            "codexNumber": 17,
+                            "codexNumber": 15,
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Urn"
+                                "artifactName": "Totem"
                             }
                         }
                     }

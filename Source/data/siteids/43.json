@@ -208,12 +208,12 @@
                             "grCodexCategory": {
                                 "categoryName": "History"
                             },
-                            "codexNumber": 2,
+                            "codexNumber": 6,
                             "grPrimaryArtifact": {
                                 "artifactName": "Casket"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Casket"
+                                "artifactName": "Totem"
                             }
                         }
                     }
@@ -245,32 +245,21 @@
                         "grObeliskGroup": {
                             "groupName": "F"
                         },
-                        "obeliskNumber": 10,
+                        "obeliskNumber": 11,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Biology"
                             },
-                            "codexNumber": 3,
+                            "codexNumber": 2,
                             "grPrimaryArtifact": {
                                 "artifactName": "Urn"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Casket"
+                                "artifactName": "Urn"
                             }
                         }
-                    }
-                },
-                {
-                    "activeObelisk": {
-                        "grObeliskGroup": {
-                            "groupName": "F"
-                        },
-                        "obeliskNumber": 11,
-                        "broken": false,
-                        "verified": null,
-                        "grCodexData": null
                     }
                 },
                 {

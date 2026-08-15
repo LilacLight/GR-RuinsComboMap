@@ -186,9 +186,7 @@
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
-                            "grSecondaryArtifact": {
-                                "artifactName": "Orb"
-                            }
+                            "grSecondaryArtifact": null
                         }
                     }
                 },

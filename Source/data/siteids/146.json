@@ -199,6 +199,28 @@
                 {
                     "activeObelisk": {
                         "grObeliskGroup": {
+                            "groupName": "I"
+                        },
+                        "obeliskNumber": 14,
+                        "broken": false,
+                        "verified": true,
+                        "grCodexData": {
+                            "grCodexCategory": {
+                                "categoryName": "Biology"
+                            },
+                            "codexNumber": 19,
+                            "grPrimaryArtifact": {
+                                "artifactName": "Urn"
+                            },
+                            "grSecondaryArtifact": {
+                                "artifactName": "Relic"
+                            }
+                        }
+                    }
+                },
+                {
+                    "activeObelisk": {
+                        "grObeliskGroup": {
                             "groupName": "J"
                         },
                         "obeliskNumber": 9,

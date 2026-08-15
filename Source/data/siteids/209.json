@@ -161,19 +161,19 @@
                         "grObeliskGroup": {
                             "groupName": "P"
                         },
-                        "obeliskNumber": 16,
+                        "obeliskNumber": 15,
                         "broken": false,
                         "verified": true,
                         "grCodexData": {
                             "grCodexCategory": {
                                 "categoryName": "Culture"
                             },
-                            "codexNumber": 12,
+                            "codexNumber": 11,
                             "grPrimaryArtifact": {
                                 "artifactName": "Totem"
                             },
                             "grSecondaryArtifact": {
-                                "artifactName": "Orb"
+                                "artifactName": "Tablet"
                             }
                         }
                     }
